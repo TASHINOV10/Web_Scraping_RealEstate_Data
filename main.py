@@ -5,39 +5,38 @@ import pandas as pd
 
 def scrape_apartment_listings(url):
 
-    response = requests.get(url)
-    if response.status_code != 200:
+    page = requests.get(url)
+    if page.status_code != 200:
         print("Failed to fetch data from the URL")
         return None
 
-    # Parse the HTML content using BeautifulSoup
-    soup = BeautifulSoup(response.content, 'html.parser')
+    soup = BeautifulSoup(page.content, 'html.parser')
 
     titles = []
     addresses = []
-
+    prices = []
 
     listings = soup.find_all('div', class_='listtop-item noselect mb20')  # Adjust the class based on the website's HTML structure
+
     for listing in listings:
         item_title = listing.find('h3', class_='listtop-item-title')
+        item_title = item_title.text.strip()
+        address = listing.find('div', class_='listtop-item-address')
+        address = address.text.strip()
+        price = listing.find('span', class_= 'ads-params-single')
+        price = price.text.strip()
 
-        address_element = listing.find('div', class_='c')
-        address = address_element.i.get_text(strip=True) if address_element and address_element.i else 'N/A'
+        n_rooms = soup.find('div', class_= 'ads-params-row')
+        print(n_rooms)
 
-        #price = listing.find('div', class_='ads-params-cell  animation-element bounce-up in-view first_pclass').text.strip()
-        # Add more data fields as needed
-
-        # Append data to lists
         titles.append(item_title)
-        #prices.append(price)
         addresses.append(address)
+        prices.append(price)
 
-    # Create a DataFrame
     df = pd.DataFrame({
         'Address': addresses,
-        #'Price': prices,
-        'Item Title': titles
-        # Add more columns as needed
+        'Item Title': titles,
+        'Price': prices
     })
 
     return df
