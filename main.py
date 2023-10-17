@@ -4,6 +4,10 @@ from bs4 import BeautifulSoup
 import pandas as pd
 import re
 
+symbols = (u"абвгдеёжзийклмнопрстуфхцчшщъыьэюяАБВГДЕЁЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯ",
+           u"abvgdeejzijklmnoprstufhzcss_y_euaABVGDEEJZIJKLMNOPRSTUFHZCSS_Y_EUA")
+tr = {ord(a):ord(b) for a, b in zip(*symbols)}
+
 def scrape_apartment_listings(url):
 
         page = requests.get(url)
@@ -27,8 +31,13 @@ def scrape_apartment_listings(url):
             item_title = item_title.text.strip()
             address = listing.find('div', class_='listtop-item-address')
             address = address.text.strip()
+            address = address.split(',')
+            address = address[0]
+
             price = listing.find('span', class_= 'ads-params-single')
             price = price.text.strip()
+            price = price.split()
+            price = ''.join([price[0], price[1]])
 
             rows = listing.find_all('div',class_ = 'ads-params-row')
             count = 0
@@ -37,6 +46,20 @@ def scrape_apartment_listings(url):
                     row1 = row.text.strip().split(':')
                     n_rooms = row1[1].split()
                     n_rooms = n_rooms[0]
+                    check = list(n_rooms)
+
+                    if check[0] == 'Д':
+                        n_rooms = 2
+                    elif check[0] == 'Т':
+                        n_rooms = 3
+                    elif check[0] == 'E':
+                        n_rooms = 1
+                    elif check[0] == 'М' and check[1] == 'н':
+                        n_rooms = 4
+                    elif check[0] == 'М' and check[1] == 'е':
+                        n_rooms = 10
+                    else:
+                        n_rooms = 0
 
                 if count == 2:
                     row2 = row.text.strip().split(':')
@@ -62,16 +85,16 @@ def scrape_apartment_listings(url):
 
                 count += 1
 
-            titles.append(item_title)
-            addresses.append(address)
-            prices.append(price)
+            titles.append(item_title.translate(tr))
+            addresses.append(address.translate(tr))
+            prices.append(price.translate(tr))
             rooms.append(n_rooms)
             size.append(sqm)
-            material_lst.append(material)
+            material_lst.append(material.translate(tr))
             year_lst.append(year)
 
         df = pd.DataFrame({
-            'address': addresses,
+            'location': addresses,
             'title': titles,
             'price': prices,
             'rooms': rooms,
@@ -86,3 +109,5 @@ url = 'https://www.alo.bg/obiavi/imoti-prodajbi/apartamenti-stai/?region_id=22&l
 apartment_data = scrape_apartment_listings(url)
 
 print(apartment_data)
+
+apartment_data.to_csv("output.csv", index=False)
