@@ -40,7 +40,10 @@ def scrape_apartment_listings2(url,page_number):
         price = listing.find('span', class_='ads-params-multi first_pclass_vip')
         price = price.text.strip()
         price = price.split()
-        price = ''.join([price[1], price[2]])
+        try:
+            price = ''.join([price[1],price[2],price[3]])
+        except:
+            price = ''.join([price[1], price[2]])
 
         rows = listing.find('div', class_='listvip-item-content')
         count = 0
@@ -82,10 +85,13 @@ def scrape_apartment_listings2(url,page_number):
 
                 if (year_format.match(row)) is not None:
                     year = row
-                    break
+
                 else:
-                    year = 'n/a'
-                    break
+                    if 'ново' in item_title or 'нова' in item_title or 'нов' in item_title:
+                        year = '2023'
+                    else:
+                        year = 'n/a'
+
             count += 1
 
 
@@ -101,7 +107,7 @@ def scrape_apartment_listings2(url,page_number):
     df = pd.DataFrame({
         'location': addresses,
         'title': titles,
-        'price': prices,
+        'price_eur': prices,
         'rooms': rooms,
         'm2': size,
         'build_material': material_lst,
@@ -143,7 +149,11 @@ def scrape_apartment_listings(url,page_number):
             price = listing.find('span', class_= 'ads-params-single')
             price = price.text.strip()
             price = price.split()
-            price = ''.join([price[0], price[1]])
+
+            try:
+                price = ''.join([price[0], price[1], price[2]])
+            except:
+                price = ''.join([price[0], price[1]])
 
             rows = listing.find_all('div',class_ = 'ads-params-row')
             count = 0
@@ -185,7 +195,10 @@ def scrape_apartment_listings(url,page_number):
                     if(year_format.match(row4)) is not None:
                         year = row4
                     else:
-                        year = 'n/a'
+                        if 'ново' in item_title or 'нова' in item_title or 'нов' in item_title:
+                            year = '2023'
+                        else:
+                            year = 'n/a'
 
                 count += 1
 
@@ -201,7 +214,7 @@ def scrape_apartment_listings(url,page_number):
         df = pd.DataFrame({
             'location': addresses,
             'title': titles,
-            'price': prices,
+            'price_eur': prices,
             'rooms': rooms,
             'm2': size,
             'build_material': material_lst,
@@ -224,7 +237,7 @@ page = []
 master_df = pd.DataFrame({
     'location': addresses,
     'title': titles,
-    'price': prices,
+    'price_eur': prices,
     'rooms': rooms,
     'm2': size,
     'build_material': material_lst,
@@ -242,7 +255,7 @@ flag = True
 
 while True:
     print(page_n)
-    if page_n == 301:
+    if page_n == 330:
         break
 
     url2 = f'https://www.alo.bg/obiavi/imoti-prodajbi/apartamenti-stai/?region_id=22&location_ids=4342{page}{page_n}'
@@ -258,6 +271,16 @@ while True:
 master_df = [df1,master_df]
 master_df = pd.concat(master_df)
 print(master_df)
+
+
+
+master_df = master_df.drop_duplicates(subset=('title', 'location', 'm2'), keep = 'first')
+
+print(master_df)
+
+#print(master_df['price_eur'])
+
 master_df.to_csv("output.csv", index=False)
+
 
 
