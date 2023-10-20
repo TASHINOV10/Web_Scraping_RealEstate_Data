@@ -25,6 +25,10 @@ def scrape_apartment_listings2(url,page_number):
     material_lst = []
     year_lst = []
     page = []
+    metro_station = []
+    kinder_garden = []
+    metro = 0
+    kinder = 0
 
     listings = soup.find_all('div',class_='listvip-params')
     for listing in listings:
@@ -48,6 +52,15 @@ def scrape_apartment_listings2(url,page_number):
         rows = listing.find('div', class_='listvip-item-content')
         count = 0
         for row in rows:
+
+            if count in range (10,20):
+                description = row.text.strip()
+                if 'метростанция' in description or 'метро' in description or 'Метростанция' in description or 'Метро' in description:
+                    metro = 1
+                if 'детска' in description or 'Детска' in description or 'детска градина' in description or 'Детска градина' in description:
+                    kinder = 1
+
+
 
             if count == 2: #rooms
                 n_rooms = row.text.strip()
@@ -95,6 +108,7 @@ def scrape_apartment_listings2(url,page_number):
             count += 1
 
 
+
         titles.append(item_title.translate(tr))
         addresses.append(address.translate(tr))
         prices.append(price.translate(tr))
@@ -103,6 +117,9 @@ def scrape_apartment_listings2(url,page_number):
         material_lst.append(material.translate(tr))
         year_lst.append(year)
         page.append(page_number)
+        kinder_garden.append(kinder)
+        metro_station.append(metro)
+
 
     df = pd.DataFrame({
         'location': addresses,
@@ -112,7 +129,9 @@ def scrape_apartment_listings2(url,page_number):
         'm2': size,
         'build_material': material_lst,
         'year': year_lst,
-        'page':page_number
+        'page':page_number,
+        'kinder_garden': kinder_garden,
+        'metro_station': metro_station
     })
     return df
 
@@ -135,6 +154,11 @@ def scrape_apartment_listings(url,page_number):
         size = []
         material_lst = []
         year_lst = []
+        metro_station = []
+        kinder_garden = []
+        metro = 0
+        kinder = 0
+
         listings = soup.find_all('div', class_='listtop-item noselect mb20')
         page = []
 
@@ -145,6 +169,13 @@ def scrape_apartment_listings(url,page_number):
             address = address.text.strip()
             address = address.split(',')
             address = address[0]
+
+            description = listing.find('p', class_='pt5 listtop-desc')
+            description = description.text.strip()
+            if 'метростанция' in description or 'метро' in description or 'Метростанция' in description or 'Метро' in description:
+                metro = 1
+            if 'детска' in description or 'Детска' in description or 'детска градина' in description or 'Детска градина' in description:
+                kinder = 1
 
             price = listing.find('span', class_= 'ads-params-single')
             price = price.text.strip()
@@ -210,6 +241,8 @@ def scrape_apartment_listings(url,page_number):
             material_lst.append(material.translate(tr))
             year_lst.append(year)
             page.append(page_number)
+            kinder_garden.append(kinder)
+            metro_station.append(metro)
 
         df = pd.DataFrame({
             'location': addresses,
@@ -219,7 +252,9 @@ def scrape_apartment_listings(url,page_number):
             'm2': size,
             'build_material': material_lst,
             'year': year_lst,
-            'page':page
+            'page':page,
+            'kinder_garden': kinder_garden,
+            'metro_station': metro_station
         })
 
 
@@ -233,6 +268,8 @@ size = []
 material_lst = []
 year_lst =[]
 page = []
+kinder_garden = []
+metro_station = []
 
 master_df = pd.DataFrame({
     'location': addresses,
@@ -242,7 +279,9 @@ master_df = pd.DataFrame({
     'm2': size,
     'build_material': material_lst,
     'year': year_lst,
-    'page': page
+    'page': page,
+    'kinder_garden': kinder_garden,
+    'metro_station': metro_station
 })
 
 url = 'https://www.alo.bg/obiavi/imoti-prodajbi/apartamenti-stai/?region_id=22&location_ids=4342'
@@ -255,7 +294,7 @@ flag = True
 
 while True:
     print(page_n)
-    if page_n == 330:
+    if page_n == 331:
         break
 
     url2 = f'https://www.alo.bg/obiavi/imoti-prodajbi/apartamenti-stai/?region_id=22&location_ids=4342{page}{page_n}'
@@ -280,7 +319,7 @@ print(master_df)
 
 #print(master_df['price_eur'])
 
-master_df.to_csv("output.csv", index=False)
+master_df.to_csv("raw_data.csv", index=False)
 
 
 
