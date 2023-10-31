@@ -1,19 +1,17 @@
 import geojson
 import pandas as pd
 
-
+#data is translated from cyrillic to latin script
 symbols = (u"абвгдеёжзийклмнопрстуфхцчшщъыьэюяАБВГДЕЁЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯ",
            u"abvgdeejzijklmnoprstufhzcss_y_euaABVGDEEJZIJKLMNOPRSTUFHZCSS_Y_EUA")
 tr = {ord(a):ord(b) for a, b in zip(*symbols)}
 
-
-
 region_lst = []
 population_lst = []
 area_lst = []
+
 with open('population.geojson', encoding='utf-8') as f:
     gj = geojson.load(f)
-    featuress = gj['features'][1]
     features = gj['features']
 
 for feature in features:
@@ -31,8 +29,10 @@ demographics = pd.DataFrame(
      'area': area_lst,
      'population': population_lst
     })
-demographics.to_csv("test1234.csv", index=False)
-print(demographics)
 
-features = gj['features'][173]
-print(features)
+#Removing all rows that contain 0 in population col
+index_zero = demographics[demographics['population'] == 0].index
+demographics = demographics.drop(index_zero)
+demographics.dropna(inplace = True)
+
+demographics.to_csv("population.csv", index=False)

@@ -4,11 +4,12 @@ from bs4 import BeautifulSoup
 import pandas as pd
 import re
 
+#data is translated from cyrillic to latin script
 symbols = (u"абвгдеёжзийклмнопрстуфхцчшщъыьэюяАБВГДЕЁЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯ",
            u"abvgdeejzijklmnoprstufhzcss_y_euaABVGDEEJZIJKLMNOPRSTUFHZCSS_Y_EUA")
 tr = {ord(a):ord(b) for a, b in zip(*symbols)}
 
-def scrape_apartment_listings2(url,page_number):
+def scrape_normal_offers(url,page_number):
 
     page = requests.get(url)
     if page.status_code != 200:
@@ -60,8 +61,6 @@ def scrape_apartment_listings2(url,page_number):
                 if 'детска' in description or 'Детска' in description or 'детска градина' in description or 'Детска градина' in description:
                     kinder = 1
 
-
-
             if count == 2: #rooms
                 n_rooms = row.text.strip()
                 n_rooms = n_rooms.split()
@@ -107,8 +106,6 @@ def scrape_apartment_listings2(url,page_number):
 
             count += 1
 
-
-
         titles.append(item_title.translate(tr))
         addresses.append(address.translate(tr))
         prices.append(price.translate(tr))
@@ -135,10 +132,7 @@ def scrape_apartment_listings2(url,page_number):
     })
     return df
 
-
-
-
-def scrape_apartment_listings(url,page_number):
+def scrape_vip_offers(url,page_number):
 
         page = requests.get(url)
         if page.status_code != 200:
@@ -285,7 +279,7 @@ master_df = pd.DataFrame({
 })
 
 url = 'https://www.alo.bg/obiavi/imoti-prodajbi/apartamenti-stai/?region_id=22&location_ids=4342'
-df1 = scrape_apartment_listings(url,1)
+df1 = scrape_vip_offers(url,1)
 
 
 page_n = 2
@@ -299,27 +293,19 @@ while True:
 
     url2 = f'https://www.alo.bg/obiavi/imoti-prodajbi/apartamenti-stai/?region_id=22&location_ids=4342{page}{page_n}'
 
-    dff1 = scrape_apartment_listings2(url2,page_n)
-    dff2 = scrape_apartment_listings2(url2,page_n)
+    dff1 = scrape_vip_offers(url2,page_n)
+    dff2 = scrape_normal_offers(url2,page_n)
     master_df = [master_df,dff1,dff2]
     master_df = pd.concat(master_df)
 
     page_n += 1
 
-
 master_df = [df1,master_df]
 master_df = pd.concat(master_df)
 print(master_df)
 
-
-
 master_df = master_df.drop_duplicates(subset=('title', 'location', 'm2'), keep = 'first')
 
-print(master_df)
-
-#print(master_df['price_eur'])
-
 master_df.to_csv("raw_data.csv", index=False)
-
 
 
