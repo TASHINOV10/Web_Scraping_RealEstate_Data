@@ -1,337 +1,563 @@
-region,area,population
-Vitosa,s. Vladaa,3455.0
-Pancarevo,s. Dolni Lozen,2313.0
-Lozenez,kv. Vitosa - Lozenez,4132.0
-Studentska,m. Vitosa - VEZ Simeonovo,2981.0
-Banka,"s. Ivanane, m. Bivolarnik",4.0
-Triadiza,NDK - plosad B_lgaria,189.0
-Krasno selo,ZGC Zona B5-A,1942.0
-Isk_r,j.k. Drujba 2 - zapad,43862.0
-Sredez,ZGC Zona G12 - ug,1714.0
-Kremikovzi,s. Botunez,4251.0
-Lulin,kv. Lulin - razsirenie - zapad,1119.0
-Sredez / Oborise,ZGC Zona A - sever,360.0
-Nadejda / Vr_bniza,"j.k. Nadejda 4, j.k. Vr_bniza 2B",6032.0
-Lulin,j.k. Lulin - 8 mr,10409.0
-Kremikovzi,m. Batarea,158.0
-Oborise,m. Poduane - Zent_r,8152.0
-Krasno selo,ZGC m. Bukata,3087.0
-Novi Isk_r,"gr. Novi Isk_r, m. Virovete",59.0
-Pancarevo,Lozenska planina,5.0
-Izgrev,j.k. Izgrev,2416.0
-Krasno selo,j.k. Borovo,16957.0
-Pancarevo,v.z. Gradise,120.0
-Serdika,ZGC Zona Zentralna gara,726.0
-Krasno selo,j.k. Krasno selo,11510.0
-Pancarevo,"s. D. Lozen, m. Kriva reka",2.0
-Pancarevo,s. Plana,5.0
-Vitosa,kv. Pavlovo - B_kston,11359.0
-Krasno selo,j.k. Lagera,13372.0
-Poduene,j.k. Suhata reka - sever,2170.0
-Pancarevo,Pancarevo - Ceresovi gradini iztok,82.0
-Sredez,ZGC Zona G8 - Sredez,5438.0
-V_zrajdane,ZGC Zona B19+,3428.0
-Lozenez,m. Lozenez cast 3,10886.0
-Pancarevo,j.g. Sofia - vilidj,4.0
-Vitosa,v.z. Malinova dolina - iztok,200.0
-Pancarevo,"s. German, m. Stariat most",2.0
-Ilinden,j.k. Sveta Troiza,8602.0
-Pancarevo,s. Dolni Pasarel,1194.0
-Triadiza,j.k. Kr_stova vada - zapad,1236.0
-Sredez,ZGC Zona G8,5147.0
-Krasno selo,ZGC m. Evrejski grobisa,502.0
-Banka,"s. Ivanane, m. Ravnise",1.0
-Serdika,j.k. Fondovi jilisa,6086.0
-Pancarevo,SOP Lozen Ikonomiceska zona - ug,7.0
-Mladost,kv. Gorublane,4739.0
-Sredez,Borisova gradina - sever,12.0
-Poduene,j.k. Levski - zona V,17265.0
-Lulin,j.k. Lulin - 4 mr,12580.0
-Pancarevo,m. Dolni Lozen - m. BCK,5.0
-Pancarevo,s. Jelezniza,1580.0
-Pancarevo,s. Lozen,3180.0
-Triadiza,k-s Medizinska akademia,582.0
-Triadiza,j.k. Goze Delcev,15030.0
-Sredez,3-ta izv_ngradska cast,5394.0
-Pancarevo,s. Pancarevo,1895.0
-Vitosa,m. Dragalevzi - razsirenie - sever,286.0
-Vitosa,v.z. Kinozent_r cast 3,296.0
-Pancarevo,s. Kokalane,1702.0
-Pancarevo,v.z. Bistriza - Zonkina mahala,247.0
-Pancarevo,s. Bistriza,3655.0
-Pancarevo,Zona za otdih Pancarevo - plaja,78.0
-Triadiza,j.k. Strelbise,16912.0
-Sredez,ZGC Zoni G10 i cast ot A,4089.0
-Pancarevo,s. German,2324.0
-Pancarevo,"s. Pancarevo, m. Detski grad",12.0
-Vitosa,Park Botaniceska gradina,3.0
-Vitosa,s. M_rcaevo,985.0
-Lozenez,Borisova gradina - Seminariata,71.0
-Krasna polana  / Ovca Kupel,j.k. Ovca Kupel - 1,1476.0
-Pancarevo,"s. G. Lozen, m. Viso",103.0
-Pancarevo,v.z. Vrana-German,32.0
-Vitosa,kv. Simeonovo,4059.0
-Mladost,j.k. Mladost 4,17332.0
-Sredez / Oborise,ZGC Zona A - iztok,762.0
-Mladost / Pancarevo,Hidropark Isk_r - Gorublane,15.0
-Vitosa,kv. Dragalevzi,5048.0
-Studentska,j.k. Malinova dolina - zapad,338.0
-Mladost,Iztocen Park Mladost,445.0
-Mladost,j.k. Mladost 2,14790.0
-Studentska,j.k. Studentski grad - ug,1831.0
-Vitosa,Nazionalen Kinozent_r Sofia - Boana,28.0
-Vitosa,"Dragalevzi, v.s. Miramonte",330.0
-Mladost,j.k. Mladost 3,29786.0
-Pancarevo,SOP NPZ Kazicene,33.0
-Mladost / Studentska,Park V_rtopo - ug,26.0
-Studentska,j.k. D_rveniza,13749.0
-Isk_r,j.k. Drujba 2 - iztok,3904.0
-Mladost,j.k. Mladost 1A,6704.0
-Vitosa,kv. Boana,3123.0
-Vitosa,Boanski grobisa,3.0
-Triadiza,Ujen park cast 3,572.0
-V_zrajdane,j.k. Serdika,3892.0
-Studentska,j.k. Studentski grad - zapad,12280.0
-Isk_r,Hidropark Isk_r - m. K_mping Vrana,5.0
-Vitosa,v.z. Belovodski p_t,520.0
-Isk_r,NPZ Isk_r - ug,881.0
-Lozenez,m. Zoopark,135.0
-Vitosa,Knajevska gora,19.0
-Studentska,j.k. Studentski grad - sever,8600.0
-Mladost,j.k. Mladost 1,21246.0
-Lozenez,kv. Hladilnika,4252.0
-Izgrev,Borisova gradina - Loven park,11.0
-Izgrev,j.k. Dianabad,13021.0
-Studentska,j.k. Musageniza,2438.0
-Vitosa,Vojskovi rajon Gorna Bana,69.0
-Vitosa,"kv. Knajevo, v.z. Kiliite",2280.0
-Mladost / Studentska,Park V_rtopo - sever,1276.0
-Vitosa,m. G_rdova glava,4550.0
-Isk_r / Pancarevo,PZ Kazicene - zapad / kv. Vidnite,325.0
-Lozenez,Borisova gradina - Pogrebite cast 1,15.0
-Isk_r,j.k. Drujba 1 - zapad,1553.0
-V_zrajdane,ZGC Zona B2-3+,4183.0
-Isk_r,"kv. Abdoviza, kv. Dimit_r Milenkov",1890.0
-Lozenez,NPZ Hladilnika,342.0
-Isk_r,j.k. Drujba 1 - iztok,6237.0
-Poduene,kv. Vasil Levski - sever,2638.0
-Kremikovzi,kv. Vrajdebna,4007.0
-Izgrev,j.k. Iztok - iztok,12766.0
-Ovca Kupel,v.z. Gorna Bana - Domuz dere,5.0
-Triadiza,Ujen park cast 2,190.0
-Krasno selo,j.k. Slavia,2686.0
-Triadiza,Ujen park,969.0
-Ovca Kupel,kv. Ovca Kupel - ug,4890.0
-Lozenez,m. Lozenez cast 2 i 3 - ug,10769.0
-Slatina,j.k. Avorov,23.0
-Triadiza,j.k. Ivan Vazov,7235.0
-Isk_r,s. Busmanzi,1699.0
-Lozenez,m. Lozenez cast 2 - sever,3087.0
-Slatina,m. BAN 4km,4808.0
-Slatina,Park Geo Milev,150.0
-Krasno selo,j.k. Hipodruma,10831.0
-Slatina,j.k. Geo Milev,16295.0
-Slatina,j.k. Hristo Smirnenski,18364.0
-Ovca Kupel,kv. Gorna Bana - JP gara,807.0
-Pancarevo,s. Krivina,1371.0
-Triadiza,ZGC Zona G8 cast Triadiza,5106.0
-Ovca Kupel,kv. Ovca Kupel - sever,14155.0
-Sredez,ZGC Zona G11 - iztok,1837.0
-Krasno selo,kv. Kriva reka,4937.0
-Krasno selo,j.k. Beli Brezi,9705.0
-Slatina,kv. Hristo Botev,6127.0
-Poduene,kv. Vasil Levski - ug,3444.0
-Slatina,kv. Poduane,13239.0
-Ovca Kupel,s. Malo Bucino,535.0
-Ovca Kupel,j.k. Ovca Kupel,20819.0
-Poduene / Slatina,JP Areal - Poduane (cast 3),1760.0
-Krasna polana,j.k. Krasna polana - cast 3,6390.0
-Banka,"gr. Banka, v.z. Gradoman",491.0
-V_zrajdane,ZGC Zona B5+,5747.0
-Ovca Kupel,"Gorna Bana 2; Golema Mogila, D_rn_ov kam_k i Podlozise",2.0
-Banka,"gr. Banka, kv. Gradoman - razsirenie",8.0
-V_zrajdane,ZGC Zona B5-3+,1391.0
-Sredez,ZGC Zona A - ug,951.0
-Krasna polana,Bivsi kazarmi GUSV m. Sm_rdan,51.0
-V_zrajdane / Triadiza,ZGC Zoni B2 1 i 2,1064.0
-Oborise,ZGC Zona G12 - sever,5552.0
-Slatina,Letisen k-s Sofia,6.0
-Krasna polana / Ovca Kupel,j.k. Fakulteta,11339.0
-Krasna polana,j.k. Krasna polana - cast 1 i 2,9099.0
-Oborise,ZGC Zona G14 - zapad,4840.0
-Poduene / Kremikovzi,Biznes zona bul. Iztocna tangenta - Vrajdebna,21.0
-Lulin,j.k. Lulin - zent_r,5603.0
-V_zrajdane,ZGC Zona B18+,7695.0
-Kremikovzi,m. Han Bogrov - PZ,10.0
-Ovca Kupel,kv. Suhodol,2090.0
-Oborise,ZGC Zona G13,4034.0
-Oborise,ZGC Zona G14 - iztok,2941.0
-Ovca Kupel,"kv. Suhodol, m. Sekuliza",5.0
-Kremikovzi,s. Dolni Bogrov,1109.0
-V_zrajdane,ZGC Zona B3+,3571.0
-V_zrajdane,ZGC Zona B4+,2866.0
-Krasna polana,j.k. Razsadnika - Kon_oviza,15868.0
-Poduene,j.k. Suhata reka - iztok,14809.0
-Banka,"gr. Banka, m. Ravnise",35.0
-Krasna polana,j.k. Zapaden park,7471.0
-Poduene,j.k. Levski - zona G,61.0
-Nadejda,"Park Nadejda, PV Nadejda",29.0
-Banka,"gr. Banka, kv. Mihajlovo",683.0
-Krasna polana,Zapaden park - razs. Golama Kon_oviza,450.0
-Poduene,JP Areal - Poduane (cast 1),523.0
-Lulin,m. Manilov dol,88.0
-Poduene,j.k. Hadji Dimit_r,2677.0
-Poduene,j.k. Stefan Karadja,22059.0
-Serdika,ZGC Zona V15,2585.0
-Serdika,NPZ Hadji Dimit_r,41.0
-Ilinden,"j.k. Gevgelijski, j.k. Ilinden",15076.0
-Krasna polana,Zapaden park - razs. Malka Kon_oviza 1,95.0
-Lulin,j.k. Lulin - 7 mr,4531.0
-Kremikovzi,s. Gorni Bogrov,1473.0
-Nadejda,j.k. Svoboda,9477.0
-Lulin,j.k. Lulin - 6 mr,6097.0
-Poduene,Grobisen park Malasevzi,3.0
-Lulin,kv. Lulin - razsirenie - ug,1861.0
-Novi Isk_r / Kremikovzi,m. Golamata lokva,7.0
-Nadejda,NPZ Voenna rampa - zapad,189.0
-Serdika,JP Areal - Zentralna gara,16.0
-Vr_bniza,Severen park - Bak_rena fabrika,465.0
-Banka,gr. Banka - razsirenie,433.0
-Novi Isk_r,s. Svetovracane,2030.0
-Banka,gr. Banka,4702.0
-Banka,v.z. Banka,1088.0
-Serdika,Park Bratska Mogila,44.0
-Serdika / Ilinden / Nadejda,JP Areal Nadejda - Zaharna fabrika,51.0
-Nadejda,m. Tri_g_lnika - Nadejda,1292.0
-Banka,s. i v.z. Ivanane,1985.0
-Poduene,Bitpazar Malasevzi,190.0
-Vr_bniza,NPZ Orion,661.0
-Kremikovzi,s. Ana,1093.0
-Banka,gr. Banka - kv. Verdikal,1286.0
-Serdika,PZ Zadgarov - TEZ Sofia,343.0
-Lulin,"s. Ivanane, m. Popov dol",2.0
-Nadejda,j.k. Nadejda 2,22726.0
-Banka,"s. Klisura, m. Avramiza"", m. ""Setniza""",19.0
-Lulin,kv. Filipovzi,4012.0
-Kremikovzi,kv. Celopecene,1646.0
-Nadejda,j.k. Lev Tolstoj,8001.0
-Vr_bniza,kv. Moderno predgradie,6843.0
-Serdika,NPZ Voenna rampa - iztok,54.0
-Lulin,"s. Filipovzi, m. Beriliza",4.0
-Lulin,"m. Teritorii, prilejasi na p_ten v_zel Okolovr_sten p_t - bul. Slivniza",67.0
-Vr_bniza,j.k. Obela 1,4473.0
-Kremikovzi,s. Jelava,492.0
-Nadejda,Severen park,310.0
-Vr_bniza,j.k. Obela 2,12445.0
-Vr_bniza,Severen park cast 2,35.0
-Serdika,NPZ Ilianzi - iztok,25.0
-Kremikovzi,NPZ Kremikovzi,18.0
-Vr_bniza,"s. Voluak, m. Poleto",28.0
-Nadejda,kv. Ilianzi,1217.0
-Nadejda,NPZ Ilianzi - zapad,368.0
-Vr_bniza,kv. Republika - Toleva mahala,384.0
-Kremikovzi,gr. Buhovo,2683.0
-Novi Isk_r,s. Cepinzi,2393.0
-Vr_bniza,s. Voluak,2507.0
-Vr_bniza,s. Negovan,1541.0
-Novi Isk_r,s. Kubratovo,627.0
-Novi Isk_r,s. Svetovracene NPZ,112.0
-Kremikovzi,j.k. Kremikovzi,2245.0
-Vr_bniza,s. Mramor i PSZ,1906.0
-Lulin,j.k. Lulin - 9 mr,10169.0
-Novi Isk_r,s. Jiten,567.0
-Novi Isk_r,s. Mirovane,1416.0
-Novi Isk_r,s. Vojnegovzi,521.0
-Lulin,j.k. Lulin - 3 mr,5809.0
-Novi Isk_r,s. Podgumer,723.0
-Novi Isk_r,gr. Novi Isk_r - kv. Gnilane,1132.0
-Novi Isk_r,gr. Novi Isk_r - kv. Izgrev,527.0
-Novi Isk_r,gr. Novi Isk_r - kv. Slavovzi - razsirenie,23.0
-Novi Isk_r,gr. Novi Isk_r - kv. Kumariza,3023.0
-Novi Isk_r,SPZ Novi Isk_r - kv. Kurilo,290.0
-Novi Isk_r,gr. Novi Isk_r - kv. Kurilo,3835.0
-Novi Isk_r,"s. Gnilane, v.z. Ranova niva",1.0
-Novi Isk_r,s. Dobroslavzi,1247.0
-Novi Isk_r,s. K_tina,857.0
-Novi Isk_r,s. Balsa,710.0
-Ovca Kupel,"Suhodol, m. Krusovez",5.0
-Kremikovzi,"kv. Vrajdebna, Biznes zona m. Progono",8.0
-Vr_bniza,s. Voluak - JP gara Voluak,345.0
-Vr_bniza,"s. Mramor, m. Rido",52.0
-Lozenez,kv. Kr_stova vada - iztok,502.0
-Lulin,j.k. Lulin - 10 mr,21695.0
-Kremikovzi,kv. Seslavzi,700.0
-Nadejda / Vr_bniza,"j.k. Nadejda 4, j.k. Vr_bniza 2A",7834.0
-Lulin,j.k. Lulin - 2 mr,4346.0
-Novi Isk_r,gr. Novi Isk_r - kv. Slavovzi,787.0
-Lulin,j.k. Lulin - 5 mr,14484.0
-Nadejda / Vr_bniza,"j.k. Nadejda 3, j.k. Vr_bniza 1A",6554.0
-Nadejda / Vr_bniza,"j.k. Nadejda 3, j.k. Vr_bniza 1B",8559.0
-Krasno selo,NPZ Sredez 1,385.0
-V_zrajdane,NPZ Sredez 2,1294.0
-Poduene,NPZ Hadji Dimit_r - Malasevzi 1,698.0
-Serdika,NPZ Hadji Dimit_r - Malasevzi 2,40.0
-Krasno selo,ZGC Zona G6 - zapad,1915.0
-Novi Isk_r,s. Lokorsko 1,393.0
-Lulin,SPZ Moderno predgradie - razsirenie 1,538.0
-Vr_bniza,SPZ Moderno predgradie - razsirenie 2,23.0
-Triadiza,ZGC Zona G6 - iztok,5648.0
-Mladost,j.k. Gorublane 2 i 3,1372.0
-Nadejda,j.k. Nadejda 1,3344.0
-Lulin,j.k. Lulin - 1 mr,2967.0
-Pancarevo,v.z. Kosanin dol,38.0
-Pancarevo,v.z. Bistriza - Kalfin dol,96.0
-Pancarevo,"Pancarevo, v.z. Belikata",27.0
-Mladost,Mladost 4 Kambanite - Amerikanski kolej,878.0
-Pancarevo,"s. German, m. Dzukata",17.0
-Pancarevo,"s. German, v.z. Terasite",22.0
-Vitosa,jk. Manastirski livadi - zapad,9717.0
-Serdika / Ilinden,ZGC Zona V17 - kv. Banisora,12465.0
-Vitosa,"s. Vladaa, m. Sv. Petka",4.0
-Ovca Kupel,kv. Gorna bana,3722.0
-Lozenez,Park - Borisova gradina - razs. Kr_stova vada,56.0
-Vitosa,"s. Vladaa, m. Gabera",35.0
-Lozenez / Triadiza,m. Lozenez cast 1,9570.0
-Slatina,SPZ Slatina - ug 1,1154.0
-Ovca Kupel,m. Gorna bana - razs. Lozise Podlozise,137.0
-Poduene,JP Areal - Poduane (cast 2),6.0
-Kremikovzi,m. Cepinzi - Kraveferma D-r Pasov,23.0
-Ovca Kupel,v.z. Gorna bana (razs. ug na kv. Gorna bana),1581.0
-Poduene / Kremikovzi,m. Vrajdebna - ug,96.0
-Novi Isk_r / Kremikovzi,m. Apadja,94.0
-Serdika,ZGC Zona V17 - 16 s Predgarov plosad,5580.0
-Nadejda,Skladova zona Ilianzi - Vr_bniza,3.0
-Serdika,kv. Benkovski,3770.0
-Vr_bniza,kv. Obela,2034.0
-Novi Isk_r,Hidropark Isk_r - cast gr. Novi Isk_r,4.0
-Mladost,m. bul. Zarigradsko s. 7-11km - sever,434.0
-Kremikovzi,s. Dolni Bogrov - sever,122.0
-Novi Isk_r / Kremikovzi,Park kv. Vrajdebna - sever,6.0
-Vitosa,v.z. Kinozent_ra. v.z. Gabaro - Azmata,1108.0
-Triadiza,j.k. Manastirski livadi - iztok,4732.0
-Serdika,j.k. Orlandovzi - Malasevzi,12486.0
-Banka,"gr. Banka, kv. Izgrev",351.0
-Ilinden,j.k. NPZ Zaharna fabrika,4167.0
-Vitosa,v.z. Malinova dolina - zapad,42.0
-Poduene,j.k. Suhata reka - zapad,4420.0
-Vitosa,kv. Karpuziza - zapad,5438.0
-Vitosa,kv. Karpuziza - iztok,2236.0
-Vitosa / Pancarevo,v.z. Malinova dolina - gerena,114.0
-Isk_r,Vrana - stopanstvoto,47.0
-Studentska,kv. Malinova dolina - iztok,450.0
-Izgrev,m. Gara Pioner,36.0
-Vitosa,m. obsl. zona Okolovr_sten p_t - Al. Malinov ug,5.0
-Ovca Kupel,m. Ovca Kupel - kv. 50,687.0
-Pancarevo,SOP s. Kazicene - s. Krivina,44.0
-Pancarevo,s. Kazicene - ug,4266.0
-Pancarevo,s. Jelezniza - mahala Cemernik i Zarevi kosari,5.0
-Vitosa,Planina Vitosa - r-n Vitosa,20.0
-Kremikovzi,zem. zemi r-n Kremikovzi,204.0
-Novi Isk_r / Kremikovzi,Sofijska planina (zapadna Stara planina) 2,46.0
-Pancarevo,Planina Vitosa - r-n Pancarevo,1.0
-Novi Isk_r / Kremikovzi,Sofijska planina (zapadna Stara planina) 1,20.0
-Vitosa / Ovca Kupel,Lulin planina - iztok,1.0
-Nadejda,kv. Trebic,1318.0
-Novi Isk_r,"s. K_tina, zona za otdih Izvora",2.0
-Novi Isk_r,"Novi Isk_r, m. v.z. Laska",109.0
-Novi Isk_r,m. v.z. Radevi krusi,24.0
+region,area,population,coordinates,distance_from_center
+Vitosa,s. Vladaa,3455.0,"[42.634631, 23.202339]",12.021064487957833
+Pancarevo,s. Dolni Lozen,2313.0,"[42.608911, 23.497025]",17.40563376053453
+Isk_r,"s. Krivina, m. Livadeto",0.0,"[42.690603, 23.452831]",10.742171657105915
+Kremikovzi,m. Bogrovski pesozi,0.0,"[42.710647, 23.453199]",10.837441083850518
+Lozenez,kv. Vitosa - Lozenez,4132.0,"[42.657052, 23.336436]",4.677093594832827
+Studentska,m. Vitosa - VEZ Simeonovo,2981.0,"[42.643231, 23.337539]",6.193214855984973
+Kremikovzi,"Benkovski, m. Mogilata",0.0,"[42.734552, 23.377044]",6.098988655568306
+Novi Isk_r,m. Branisko loze,0.0,"[42.835896, 23.371392]",15.891680293878633
+Vitosa,"s. Vladaa, m. Kraise",0.0,"[42.637288, 23.170854]",14.047646521340003
+Banka,"s. Ivanane, m. Bivolarnik",4.0,"[42.710669, 23.175609]",12.028037583933031
+Banka,"gr. Banka, m. M_rtvako",0.0,"[42.696529, 23.102142]",17.947073665958182
+Pancarevo,"kv. D. Lozen, m. Barite",0.0,"[42.636613, 23.534315]",18.66042101508539
+Triadiza,NDK - plosad B_lgaria,189.0,"[42.681843, 23.316735]",1.8105926648181738
+Krasno selo,ZGC Zona B5-A,1942.0,"[42.696709, 23.315255]",0.5418756725918992
+Isk_r,j.k. Drujba 2 - zapad,43862.0,"[42.654495, 23.400975]",8.064475038649753
+Sredez,ZGC Zona G12 - ug,1714.0,"[42.692527, 23.344436]",1.9416422901882415
+Kremikovzi,s. Botunez,4251.0,"[42.743562, 23.512853]",16.423488650683193
+Novi Isk_r,"s. Cepinzi, m. Merata",0.0,"[42.741492, 23.409348]",8.655762076970653
+Lulin,kv. Lulin - razsirenie - zapad,1119.0,"[42.733435, 23.250445]",7.051110517602088
+Sredez / Oborise,ZGC Zona A - sever,360.0,"[42.696255, 23.330108]",0.7021030617185076
+Ovca Kupel,"s. Ivanane, m. Tatare",0.0,"[42.695087, 23.177334]",11.80544227920339
+Novi Isk_r,v.z. Koria,0.0,"[42.833708, 23.409206]",16.72354426696379
+Nadejda / Vr_bniza,"j.k. Nadejda 4, j.k. Vr_bniza 2B",6032.0,"[42.738286, 23.298115]",4.908130006965301
+Lulin,j.k. Lulin - 8 mr,10409.0,"[42.72387, 23.267324]",5.313844149743432
+Banka,"gr. Banka, m. Lednik",0.0,"[42.709975, 23.206261]",9.534843973114473
+Kremikovzi,m. Batarea,158.0,"[42.709032, 23.430865]",9.005117933412292
+Oborise,m. Poduane - Zent_r,8152.0,"[42.6969, 23.354681]",2.6930091081191545
+Krasno selo,ZGC m. Bukata,3087.0,"[42.689452, 23.314026]",1.113567232433573
+Novi Isk_r,"gr. Novi Isk_r, m. Virovete",59.0,"[42.812608, 23.347025]",12.942370193151957
+Pancarevo,m. Azovir Isk_r,0.0,"[42.521912, 23.526531]",25.747963087127882
+Pancarevo,Lozenska planina,5.0,"[42.604434, 23.431307]",13.70571594261735
+Izgrev,j.k. Izgrev,2416.0,"[42.667415, 23.353224]",4.238393376168148
+Krasno selo,j.k. Borovo,16957.0,"[42.672014, 23.29441]",3.626669794127939
+Studentska,Park Studentski,0.0,"[42.656443, 23.353722]",5.280424973997554
+Vitosa,Park Kambanite - r-n Vitosa,0.0,"[42.621686, 23.381604]",9.767708883588318
+Pancarevo,v.z. Gradise,120.0,"[42.605777, 23.397544]",11.95459101445626
+Serdika,ZGC Zona Zentralna gara,726.0,"[42.712741, 23.31945]",1.6825305809582567
+Pancarevo,Zona za otdih Sismanovski manastir,0.0,"[42.439876, 23.616315]",37.46755845953345
+Pancarevo,v.z. Tatarski brod,0.0,"[42.437139, 23.548392]",34.408755916935256
+Pancarevo,Manastir Sv. Ilia,0.0,"[42.479225, 23.614468]",34.12400383078395
+Pancarevo,"Pancarevo, v.z. S_rkelovo gnezdo",0.0,"[42.47964, 23.548728]",30.54885331577534
+Krasno selo,j.k. Krasno selo,11510.0,"[42.678196, 23.285623]",3.6636927327392566
+Novi Isk_r,s. Svetovracene - razsirenie,0.0,"[42.783792, 23.409677]",11.96657514571403
+Pancarevo,m. Pasarel,0.0,"[42.489315, 23.528882]",28.712952391528532
+Pancarevo,"s. Jelezniza, v.z. Elata - Kosarite",0.0,"[42.508069, 23.375532]",21.541068235174027
+Pancarevo,"s. D. Lozen, m. Kriva reka",2.0,"[42.631082, 23.510281]",17.103272402590576
+Pancarevo,s. Plana,5.0,"[42.497304, 23.403181]",23.25907787341273
+Pancarevo,"s. Jelezniza, v.z. Zvezdana (Z_rkvise)",0.0,"[42.499412, 23.366863]",22.356182092638093
+Vitosa,kv. Pavlovo - B_kston,11359.0,"[42.669564, 23.276723]",4.8305926746444285
+Krasno selo,j.k. Lagera,13372.0,"[42.686857, 23.299958]",2.150739627485352
+Pancarevo,v.z. Bistriza - Siranata,0.0,"[42.608902, 23.373802]",10.75294127820185
+Pancarevo,"s. G. Lozen, v.z. Causiza",0.0,"[42.612172, 23.475147]",15.742510368651997
+Poduene,j.k. Suhata reka - sever,2170.0,"[42.69503, 23.374524]",4.323442162448275
+Pancarevo,Pancarevo - Ceresovi gradini iztok,82.0,"[42.622299, 23.409326]",11.026786611464573
+Sredez,ZGC Zona G8 - Sredez,5438.0,"[42.686409, 23.330965]",1.4646182827929524
+V_zrajdane,ZGC Zona B19+,3428.0,"[42.701039, 23.303402]",1.5442514822242066
+Lozenez,m. Lozenez cast 3,10886.0,"[42.682503, 23.335645]",2.036541262601995
+Pancarevo,j.g. Sofia - vilidj,4.0,"[42.618943, 23.389635]",10.36913308916076
+Vitosa,v.z. Malinova dolina - iztok,200.0,"[42.621846, 23.377706]",9.596295893707843
+Pancarevo,"s. German, m. Stariat most",2.0,"[42.626523, 23.423122]",11.461256300896043
+Ovca Kupel,m. Kluncov rid,0.0,"[42.687165, 23.186643]",11.103808278481333
+Ilinden,j.k. Sveta Troiza,8602.0,"[42.713149, 23.299022]",2.52927746082099
+Pancarevo,s. Dolni Pasarel,1194.0,"[42.553352, 23.49567]",21.4506571850016
+Triadiza,j.k. Kr_stova vada - zapad,1236.0,"[42.656818, 23.312973]",4.6025358262088885
+Sredez,ZGC Zona G8,5147.0,"[42.694745, 23.322108]",0.3303531169744802
+Krasno selo,ZGC m. Evrejski grobisa,502.0,"[42.692273, 23.310447]",1.103353958563287
+Banka,"s. Ivanane, m. Ravnise",1.0,"[42.702724, 23.197271]",10.187212937612601
+Serdika,j.k. Fondovi jilisa,6086.0,"[42.714099, 23.3075]",2.1629844798977933
+Pancarevo,SOP Lozen Ikonomiceska zona - ug,7.0,"[42.630637, 23.469859]",14.2225478957002
+Pancarevo,m. Vrana - Lozen - Tri_g_lnika,0.0,"[42.62922, 23.440511]",12.340728288649734
+Isk_r,"s. Busmanzi, m. Prez Isk_r",0.0,"[42.667993, 23.447179]",10.772175701243372
+Novi Isk_r,"s. Podgumer, stopanski dvor",0.0,"[42.799034, 23.399674]",12.940030618806379
+Mladost,kv. Gorublane,4739.0,"[42.641553, 23.405564]",9.270677168356706
+Isk_r,"Vrana, m. Limonk_oviza",0.0,"[42.652957, 23.454261]",11.92126545968169
+Vr_bniza,"s. Voluak, m. Vlaska reka",0.0,"[42.770388, 23.211661]",12.089649569241407
+Pancarevo,v.z. Kokalane,0.0,"[42.578553, 23.424648]",15.696756607884993
+Sredez,Borisova gradina - sever,12.0,"[42.688541, 23.333963]",1.4265534234634134
+Pancarevo,"s. Lozen, m. B_rdo - Sv. Dimit_r",0.0,"[42.611343, 23.452671]",14.382371450627573
+Poduene,j.k. Levski - zona V,17265.0,"[42.710689, 23.383805]",5.272591530800316
+Novi Isk_r,kv. Celopecene - m. Zavoa zem. zema,0.0,"[42.730221, 23.462478]",12.052975320836804
+Lulin,j.k. Lulin - 4 mr,12580.0,"[42.71596, 23.25112]",6.117461185694981
+Kremikovzi,"kv. Celopecene, m. Devo most",0.0,"[42.748379, 23.484518]",14.44126881602442
+Novi Isk_r,"s. Lokorsko, m. Razpake",0.0,"[42.786591, 23.440705]",13.858650771215515
+Pancarevo,v.z. Dolni Pasarel,0.0,"[42.558738, 23.480344]",20.17758287837405
+Pancarevo,m. Dolni Lozen - m. BCK,5.0,"[42.607159, 23.522402]",19.252341463828778
+Pancarevo,s. Jelezniza,1580.0,"[42.541527, 23.365181]",17.72603463500959
+Mladost,"NPZ Iztok, m. K_ro",0.0,"[42.657066, 23.384812]",6.855561742618212
+Pancarevo,s. Lozen,3180.0,"[42.610692, 23.477489]",15.994682191203506
+Pancarevo,"s. Bistriza, j.g. Planinski gledki",0.0,"[42.576186, 23.353905]",13.765882302241572
+Pancarevo,"Pancarevo, v.z. Z_rnokos",0.0,"[42.582727, 23.396985]",14.189033329462728
+Triadiza,k-s Medizinska akademia,582.0,"[42.687004, 23.310415]",1.5077117308825119
+Triadiza,j.k. Goze Delcev,15030.0,"[42.65783, 23.302827]",4.695785988708578
+Sredez,3-ta izv_ngradska cast,5394.0,"[42.6835, 23.347643]",2.640928548351536
+Pancarevo,s. Pancarevo,1895.0,"[42.588133, 23.419749]",14.584251184971048
+Vitosa,m. Dragalevzi - razsirenie - sever,286.0,"[42.639832, 23.317184]",6.4458732739701965
+Vitosa,v.z. Kinozent_r cast 3,296.0,"[42.648221, 23.296533]",5.875686533871013
+Vr_bniza,"s. Voluak, m. Poleto 2",0.0,"[42.787949, 23.226488]",12.696836444859459
+Pancarevo,"s. Bistriza, m. Ciproviza",0.0,"[42.600541, 23.377066]",11.713119310278675
+Pancarevo,s. Kokalane,1702.0,"[42.574731, 23.414938]",15.655446448554597
+Pancarevo,v.z. Bistriza - Zonkina mahala,247.0,"[42.586989, 23.349688]",12.521298909591891
+Pancarevo,s. Bistriza,3655.0,"[42.59239, 23.369144]",12.335400264093956
+Pancarevo,Zona za otdih Pancarevo - plaja,78.0,"[42.607345, 23.40571]",12.169747102468877
+Pancarevo,m.  Colaniza - Cetarl_ka,0.0,"[42.606907, 23.547755]",21.06102246232209
+Triadiza,j.k. Strelbise,16912.0,"[42.674691, 23.303812]",2.949049389505137
+Pancarevo,Bistriza - rezervata,0.0,"[42.60745, 23.360283]",10.519011251563857
+Pancarevo,m. Sr_bski azmak,0.0,"[42.624408, 23.514978]",17.778723786044683
+Pancarevo,"German, m. Samaka",0.0,"[42.617292, 23.430726]",12.624142435823673
+Pancarevo,"s. Lozen, m. Orlova krusa",0.0,"[42.619501, 23.443472]",13.21730558842438
+Sredez,ZGC Zoni G10 i cast ot A,4089.0,"[42.693123, 23.334375]",1.1509595383535487
+Pancarevo,s. German,2324.0,"[42.620523, 23.419333]",11.718892531668041
+Pancarevo,"s. Pancarevo, m. Detski grad",12.0,"[42.622856, 23.394196]",10.215922671403757
+Vitosa,Park Botaniceska gradina,3.0,"[42.647289, 23.298851]",5.910125780068794
+Kremikovzi,"s. Ana, m. Sadinata",0.0,"[42.72398, 23.587018]",21.86995511038324
+Vitosa,s. M_rcaevo,985.0,"[42.608776, 23.170799]",15.816623610113133
+Lozenez,Borisova gradina - Seminariata,71.0,"[42.67747, 23.341746]",2.7810758356184655
+Krasna polana  / Ovca Kupel,j.k. Ovca Kupel - 1,1476.0,"[42.695466, 23.277057]",3.66059969862581
+Pancarevo,Park Kambanite - r-n Pancarevo,0.0,"[42.622877, 23.393646]",10.18799997196834
+Pancarevo,"s. G. Lozen, m. Viso",103.0,"[42.633313, 23.448089]",12.569031340705195
+Pancarevo,v.z. Vrana-German,32.0,"[42.630502, 23.435741]",11.946463687611141
+Vitosa,kv. Simeonovo,4059.0,"[42.626438, 23.350154]",8.257855957533389
+Mladost,j.k. Mladost 4,17332.0,"[42.635374, 23.380503]",8.432996478377778
+Sredez / Oborise,ZGC Zona A - iztok,762.0,"[42.69334, 23.334433]",1.14477554624165
+Mladost / Pancarevo,Hidropark Isk_r - Gorublane,15.0,"[42.636547, 23.422005]",10.65090272526901
+Kremikovzi,Rudnik Kremikovzi,0.0,"[42.789004, 23.484165]",16.702782333125832
+Vitosa,kv. Dragalevzi,5048.0,"[42.634463, 23.310346]",7.093584510485203
+Isk_r,Park - muzej Vrana,0.0,"[42.650317, 23.434814]",10.639988128868994
+Studentska,j.k. Malinova dolina - zapad,338.0,"[42.642671, 23.337738]",6.2575096062001805
+Mladost,Iztocen Park Mladost,445.0,"[42.646151, 23.385389]",7.741694805892582
+Mladost,j.k. Mladost 2,14790.0,"[42.648082, 23.376894]",7.125488681557448
+Studentska,j.k. Studentski grad - ug,1831.0,"[42.651979, 23.347287]",5.496439567616044
+Vitosa,Nazionalen Kinozent_r Sofia - Boana,28.0,"[42.642497, 23.287298]",6.75397917285247
+Vitosa,"Dragalevzi, v.s. Miramonte",330.0,"[42.642797, 23.309952]",6.181055436823139
+Mladost,j.k. Mladost 3,29786.0,"[42.647088, 23.380817]",7.416183527916587
+Pancarevo,SOP NPZ Kazicene,33.0,"[42.637809, 23.454678]",12.746921219491266
+Mladost / Studentska,Park V_rtopo - ug,26.0,"[42.649678, 23.367655]",6.5272409441579695
+Isk_r,"s. Kazicene, m. Limonk_oviza",0.0,"[42.653497, 23.452071]",11.733484003646891
+Studentska,j.k. D_rveniza,13749.0,"[42.658661, 23.36427]",5.5616349869451795
+Isk_r,j.k. Drujba 2 - iztok,3904.0,"[42.637078, 23.417064]",10.304445785948097
+Mladost,j.k. Mladost 1A,6704.0,"[42.647652, 23.385873]",7.645969373549745
+Kremikovzi,"Celopecene, m. Lenisata",0.0,"[42.725729, 23.453524]",11.208605166433331
+Vitosa,kv. Boana,3123.0,"[42.650144, 23.26071]",7.270929007396565
+Vitosa,Boanski grobisa,3.0,"[42.646976, 23.283513]",6.4488553810471885
+Triadiza,Ujen park cast 3,572.0,"[42.656913, 23.306483]",4.704240307457712
+Vitosa,v.z. Cernia kos,0.0,"[42.65384, 23.21014]",10.345743987860626
+V_zrajdane,j.k. Serdika,3892.0,"[42.692138, 23.304325]",1.552444563410075
+Studentska,j.k. Studentski grad - zapad,12280.0,"[42.656764, 23.34946]",5.084927884735551
+Isk_r,Hidropark Isk_r - m. K_mping Vrana,5.0,"[42.652908, 23.428476]",10.0470043029936
+Vitosa,v.z. Belovodski p_t,520.0,"[42.654576, 23.249001]",7.639615462646181
+Vitosa,Rezidenzia Boana,0.0,"[42.657567, 23.272293]",6.021794954607496
+Isk_r,NPZ Isk_r - ug,881.0,"[42.664337, 23.414433]",8.436260182491973
+Lozenez,m. Zoopark,135.0,"[42.660423, 23.336794]",4.324120061698068
+Vitosa,Knajevska gora,19.0,"[42.659154, 23.24287]",7.742731885034804
+Studentska,j.k. Studentski grad - sever,8600.0,"[42.661982, 23.358722]",4.991374019558867
+Mladost,j.k. Mladost 1,21246.0,"[42.666463, 23.371321]",5.337539410462996
+Lozenez,kv. Hladilnika,4252.0,"[42.659304, 23.316492]",4.291432032477943
+Banka,"kv. Mihajlovo, m. Gaber",0.0,"[42.68622, 23.128646]",15.833511575858436
+Ovca Kupel,v.z. Lulin,0.0,"[42.655044, 23.209713]",10.31421081189231
+Izgrev,Borisova gradina - Loven park,11.0,"[42.66574, 23.342559]",3.940437919360944
+Izgrev,j.k. Dianabad,13021.0,"[42.663327, 23.357508]",4.812256293258354
+Studentska,j.k. Musageniza,2438.0,"[42.658688, 23.364322]",5.561950340631934
+Vitosa,Vojskovi rajon Gorna Bana,69.0,"[42.669987, 23.241714]",7.231461900916283
+Vitosa,"kv. Knajevo, v.z. Kiliite",2280.0,"[42.660963, 23.236736]",8.061160779224362
+Mladost / Studentska,Park V_rtopo - sever,1276.0,"[42.668246, 23.368795]",5.051723889515004
+Vitosa,m. G_rdova glava,4550.0,"[42.658984, 23.26814]",6.14330817176772
+Isk_r / Pancarevo,PZ Kazicene - zapad / kv. Vidnite,325.0,"[42.671421, 23.454864]",11.266593538214467
+Lozenez,Borisova gradina - Pogrebite cast 1,15.0,"[42.670978, 23.337657]",3.243919400313553
+Isk_r,j.k. Drujba 1 - zapad,1553.0,"[42.668406, 23.392592]",6.644485677823713
+V_zrajdane,ZGC Zona B2-3+,4183.0,"[42.698051, 23.321866]",0.039811349888543235
+Isk_r,"kv. Abdoviza, kv. Dimit_r Milenkov",1890.0,"[42.669988, 23.423672]",8.883173020268565
+Lozenez,NPZ Hladilnika,342.0,"[42.661087, 23.328022]",4.103819470078998
+Isk_r,j.k. Drujba 1 - iztok,6237.0,"[42.666866, 23.407538]",7.806268944532958
+Poduene,kv. Vasil Levski - sever,2638.0,"[42.706957, 23.376054]",4.555526681141526
+Kremikovzi,kv. Vrajdebna,4007.0,"[42.716696, 23.409651]",7.486674623949567
+Izgrev,j.k. Iztok - iztok,12766.0,"[42.668353, 23.36865]",5.034983694324035
+Ovca Kupel,v.z. Gorna Bana - Domuz dere,5.0,"[42.669849, 23.240821]",7.304061362333658
+Triadiza,Ujen park cast 2,190.0,"[42.682011, 23.320983]",1.7460959578716042
+Krasno selo,bul. 9-ti Septemvri,0.0,"[42.690209, 23.306416]",1.5047427018279205
+Krasno selo,j.k. Slavia,2686.0,"[42.681155, 23.280659]",3.8292797182911698
+Triadiza,Ujen park,969.0,"[42.671301, 23.310394]",3.079024731365364
+Ovca Kupel,kv. Ovca Kupel - ug,4890.0,"[42.673039, 23.270796]",4.986529357060458
+Lozenez,m. Lozenez cast 2 i 3 - ug,10769.0,"[42.671813, 23.335174]",3.0810781054094223
+Slatina,j.k. Avorov,23.0,"[42.678706, 23.354666]",3.420877895676311
+Triadiza,j.k. Ivan Vazov,7235.0,"[42.681608, 23.313255]",1.9196308508107356
+Isk_r,s. Busmanzi,1699.0,"[42.681914, 23.428254]",8.8804293823997
+Lozenez,m. Lozenez cast 2 - sever,3087.0,"[42.676334, 23.333735]",2.570361965949623
+Slatina,m. BAN 4km,4808.0,"[42.676914, 23.369106]",4.508739563587743
+Izgrev,Borisova gradina - ug,0.0,"[42.679799, 23.352581]",3.2117825136790628
+Ovca Kupel,m. Medizinski zent_r Suhodol,0.0,"[42.678221, 23.194822]",10.597874190111211
+Slatina,Park Geo Milev,150.0,"[42.688375, 23.357672]",3.1140153108668476
+Krasno selo,j.k. Hipodruma,10831.0,"[42.684445, 23.301052]",2.243715931264285
+Slatina,j.k. Geo Milev,16295.0,"[42.686618, 23.355976]",3.0571323200897624
+Slatina,j.k. Hristo Smirnenski,18364.0,"[42.69292, 23.368127]",3.8276299629753106
+Ovca Kupel,kv. Gorna Bana - JP gara,807.0,"[42.684628, 23.237633]",7.02666658069446
+Pancarevo,s. Krivina,1371.0,"[42.69246, 23.468255]",11.987672845517185
+Triadiza,ZGC Zona G8 cast Triadiza,5106.0,"[42.688996, 23.318972]",0.9944722514644636
+Ovca Kupel,kv. Ovca Kupel - sever,14155.0,"[42.683551, 23.269609]",4.542533878222828
+Sredez,ZGC Zona G11 - iztok,1837.0,"[42.688541, 23.333963]",1.4265534234634134
+Krasno selo,kv. Kriva reka,4937.0,"[42.684525, 23.301515]",2.209419490194075
+Krasno selo,j.k. Beli Brezi,9705.0,"[42.677858, 23.296205]",3.037743440864665
+Slatina,kv. Hristo Botev,6127.0,"[42.687642, 23.394505]",6.050818727808726
+Poduene,kv. Vasil Levski - ug,3444.0,"[42.702147, 23.390726]",5.658575710230092
+Slatina,kv. Poduane,13239.0,"[42.696592, 23.360078]",3.135027282023655
+Ovca Kupel,s. Malo Bucino,535.0,"[42.681037, 23.171526]",12.416978126924834
+Ovca Kupel,"s. Malo Bucino, m. Kosarite",0.0,"[42.686196, 23.150619]",14.04451585812754
+Ovca Kupel,j.k. Ovca Kupel,20819.0,"[42.691958, 23.250331]",5.871300022142536
+Poduene / Slatina,JP Areal - Poduane (cast 3),1760.0,"[42.694789, 23.374773]",4.345668356406595
+Krasna polana,j.k. Krasna polana - cast 3,6390.0,"[42.695721, 23.28718]",2.833433426726464
+Banka,"gr. Banka, v.z. Gradoman",491.0,"[42.694585, 23.146484]",14.327280851055699
+V_zrajdane,ZGC Zona B5+,5747.0,"[42.699931, 23.310073]",0.9855390599236297
+Ovca Kupel,"Gorna Bana 2; Golema Mogila, D_rn_ov kam_k i Podlozise",2.0,"[42.688803, 23.223505]",8.089779526195914
+Banka,"gr. Banka, kv. Gradoman - razsirenie",8.0,"[42.691153, 23.131971]",15.526665489265781
+V_zrajdane,ZGC Zona B5-3+,1391.0,"[42.698879, 23.315689]",0.5119373713600348
+Ovca Kupel,v.z. Suhodol,0.0,"[42.693402, 23.21653]",8.612033469962292
+Sredez,ZGC Zona A - ug,951.0,"[42.697422, 23.323526]",0.14880646112360232
+Krasna polana,Bivsi kazarmi GUSV m. Sm_rdan,51.0,"[42.695621, 23.236406]",6.978099806268748
+V_zrajdane / Triadiza,ZGC Zoni B2 1 i 2,1064.0,"[42.698046, 23.320228]",0.1297513459512778
+Oborise,ZGC Zona G12 - sever,5552.0,"[42.692576, 23.344514]",1.9461270963954906
+Slatina / Kremikovzi,Hidropark Isk_r - cast Letise sever,0.0,"[42.709379, 23.423984]",8.454551187259494
+Slatina,Letisen k-s Sofia,6.0,"[42.702418, 23.409746]",7.210323043431957
+Krasna polana / Ovca Kupel,j.k. Fakulteta,11339.0,"[42.70071, 23.274434]",3.8807494707451573
+Krasna polana,j.k. Krasna polana - cast 1 i 2,9099.0,"[42.695721, 23.28718]",2.833433426726464
+Oborise,ZGC Zona G14 - zapad,4840.0,"[42.697655, 23.324362]",0.2138537234804726
+Poduene / Kremikovzi,Biznes zona bul. Iztocna tangenta - Vrajdebna,21.0,"[42.715741, 23.397759]",6.52680986704378
+Pancarevo,"kv. Vrajdebna, m. Dolo",0.0,"[42.707259, 23.456903]",11.095408472267394
+Lulin,j.k. Lulin - zent_r,5603.0,"[42.716702, 23.260514]",5.430913384387067
+V_zrajdane,ZGC Zona B18+,7695.0,"[42.705932, 23.304923]",1.6513340567458845
+Kremikovzi,m. Han Bogrov - PZ,10.0,"[42.713765, 23.522294]",16.48404802170363
+Ovca Kupel,kv. Suhodol,2090.0,"[42.706206, 23.230303]",7.531939885038368
+Oborise,ZGC Zona G13,4034.0,"[42.699793, 23.344628]",1.8842989867704156
+Oborise,ZGC Zona G14 - iztok,2941.0,"[42.704773, 23.332759]",1.194891503330291
+Ovca Kupel,"kv. Suhodol, m. Sekuliza",5.0,"[42.702054, 23.22024]",8.309052373891467
+Kremikovzi,s. Dolni Bogrov,1109.0,"[42.706286, 23.494353]",14.137021219194128
+V_zrajdane,ZGC Zona B3+,3571.0,"[42.705408, 23.317651]",0.9196842468999571
+V_zrajdane,ZGC Zona B4+,2866.0,"[42.705839, 23.311556]",1.229480278707532
+Krasna polana,j.k. Razsadnika - Kon_oviza,15868.0,"[42.701986, 23.297733]",2.0192566380162584
+Poduene,j.k. Suhata reka - iztok,14809.0,"[42.708609, 23.369407]",4.07900287229944
+Banka,"gr. Banka, m. Ravnise",35.0,"[42.701166, 23.136351]",15.155276913539842
+Krasna polana,j.k. Zapaden park,7471.0,"[42.705952, 23.28479]",3.156104388526807
+Poduene,j.k. Levski - zona G,61.0,"[42.715109, 23.388678]",5.801373112505484
+Nadejda,"Park Nadejda, PV Nadejda",29.0,"[42.720197, 23.314133]",2.5772983142658474
+Banka,"gr. Banka, kv. Mihajlovo",683.0,"[42.70571, 23.118764]",16.61085236059116
+Krasna polana,Zapaden park - razs. Golama Kon_oviza,450.0,"[42.710034, 23.272631]",4.241090750820634
+Poduene,JP Areal - Poduane (cast 1),523.0,"[42.711097, 23.34741]",2.572074965834032
+Lulin,m. Manilov dol,88.0,"[42.70155, 23.20815]",9.292826536417968
+Poduene,j.k. Hadji Dimit_r,2677.0,"[42.705137, 23.35878]",3.137138305428347
+Poduene,j.k. Stefan Karadja,22059.0,"[42.709559, 23.3664]",3.8796711164550604
+Serdika,ZGC Zona V15,2585.0,"[42.707635, 23.331943]",1.383377643371017
+Serdika,NPZ Hadji Dimit_r,41.0,"[42.711295, 23.346425]",2.5200234975745346
+Ilinden,"j.k. Gevgelijski, j.k. Ilinden",15076.0,"[42.707201, 23.299207]",2.1230526841603874
+Ovca Kupel,"kv. Suhodol, m. Savarna bara",0.0,"[42.703268, 23.219607]",8.369506652239709
+Krasna polana,Zapaden park - razs. Malka Kon_oviza 1,95.0,"[42.708573, 23.243885]",6.476155128643939
+Lulin,j.k. Lulin - 7 mr,4531.0,"[42.713788, 23.265807]",4.908278220432288
+Vr_bniza,"s. Mramor, m. Kelkaza",0.0,"[42.772511, 23.27542]",9.13822227535729
+Ilinden,Zapaden park,0.0,"[42.712381, 23.288995]",3.134525657035181
+Kremikovzi,s. Gorni Bogrov,1473.0,"[42.724446, 23.543734]",18.379484419725244
+Nadejda,j.k. Svoboda,9477.0,"[42.739157, 23.311949]",4.678333875170322
+Lulin,j.k. Lulin - 6 mr,6097.0,"[42.714331, 23.25513]",5.748667093995937
+Poduene,Grobisen park Malasevzi,3.0,"[42.71594, 23.373099]",4.660316474071804
+Novi Isk_r,"s. Cepinzi, m. Smil_oviza",0.0,"[42.732347, 23.445534]",10.822144003992424
+Lulin,kv. Lulin - razsirenie - ug,1861.0,"[42.717271, 23.236516]",7.29601920811324
+Banka,m. Radova mahala,0.0,"[42.711334, 23.090829]",18.929644442921166
+Novi Isk_r / Kremikovzi,m. Golamata lokva,7.0,"[42.721857, 23.447589]",10.627079312048158
+Nadejda,NPZ Voenna rampa - zapad,189.0,"[42.740086, 23.322163]",4.712786506896179
+Pancarevo,m. Golamata lokva - t_rgovski park 2,0.0,"[42.705073, 23.455835]",10.987937217089728
+Serdika,JP Areal - Zentralna gara,16.0,"[42.719729, 23.312194]",2.5704213345562454
+Vr_bniza,Severen park - Bak_rena fabrika,465.0,"[42.742008, 23.285545]",5.745882696779498
+Banka,gr. Banka - razsirenie,433.0,"[42.714955, 23.13045]",15.748139978608762
+Novi Isk_r,s. Svetovracane,2030.0,"[42.783106, 23.398691]",11.387041337116868
+Banka,gr. Banka,4702.0,"[42.715465, 23.138412]",15.109860516117893
+Novi Isk_r,s. Balsa - razsirenie,0.0,"[42.859482, 23.267467]",18.526334542367703
+Banka,v.z. Banka,1088.0,"[42.715102, 23.169772]",12.567635739730733
+Kremikovzi,"kv. Celopecene, m. Selisata",0.0,"[42.717935, 23.465437]",11.954344635817286
+Serdika,Sofijski zentralni grobisa,0.0,"[42.721656, 23.328879]",2.7263622521371693
+Serdika,Park Bratska Mogila,44.0,"[42.734527, 23.338069]",4.3062205978776245
+Kremikovzi,Hvostohranilise Celopecene,0.0,"[42.729117, 23.496918]",14.731832256810092
+Serdika / Ilinden / Nadejda,JP Areal Nadejda - Zaharna fabrika,51.0,"[42.719183, 23.306339]",2.6998142537956094
+Nadejda,m. Tri_g_lnika - Nadejda,1292.0,"[42.723671, 23.30516]",3.189594645895224
+Banka,s. i v.z. Ivanane,1985.0,"[42.718068, 23.196829]",10.454925555118846
+Poduene,Bitpazar Malasevzi,190.0,"[42.716083, 23.352952]",3.2677453117353945
+Kremikovzi,"s. Ana, m. Pojaro",0.0,"[42.73775, 23.587274]",22.14473634005905
+Kremikovzi,Celopecensko ezero - Balastriera,0.0,"[42.726833, 23.472279]",12.71829426690974
+Kremikovzi,"kv. Vrajdebna, m. Lokvata",0.0,"[42.730803, 23.390457]",6.7126113260764715
+Lulin,"kv. Filipovzi, m. Koria",0.0,"[42.726196, 23.215999]",9.202407332659533
+Vr_bniza,NPZ Orion,661.0,"[42.717792, 23.28468]",3.763219558087789
+Kremikovzi,Slakohranilise Kremikovzi,0.0,"[42.748699, 23.575655]",21.502501612229402
+Kremikovzi,s. Ana,1093.0,"[42.736613, 23.566153]",20.430467890907455
+Banka,gr. Banka - kv. Verdikal,1286.0,"[42.724364, 23.130135]",15.933627100283928
+Kremikovzi,"s. Botunez, m. Lakata",0.0,"[42.735435, 23.505456]",15.583921718359663
+Serdika,PZ Zadgarov - TEZ Sofia,343.0,"[42.731412, 23.335722]",3.9182237083780227
+Lulin,m. Toleva mahala,,"[42.741322, 23.227314]",9.112412834954634
+Lulin,"s. Ivanane, m. Popov dol",2.0,"[42.730702, 23.200058]",10.597397543471281
+Nadejda,j.k. Nadejda 2,22726.0,"[42.733544, 23.309905]",4.100959400795452
+Banka,"s. Klisura, m. Avramiza"", m. ""Setniza""",19.0,"[42.718202, 23.093456]",18.79192207042379
+Banka,"kv. Verdikal, Kakini padini - Azovir",0.0,"[42.723184, 23.126714]",16.1850057249301
+Lulin,kv. Filipovzi,4012.0,"[42.725899, 23.234309]",7.801551855159079
+Nadejda,kv. Ilianzi - man. Sv. Ilia,0.0,"[42.759967, 23.313736]",6.954175343906325
+Kremikovzi,kv. Celopecene,1646.0,"[42.739118, 23.472575]",13.154298389100237
+Nadejda,j.k. Lev Tolstoj,8001.0,"[42.731726, 23.313454]",3.843252239395016
+Vr_bniza,kv. Moderno predgradie,6843.0,"[42.730386, 23.276419]",5.188485942058706
+Kremikovzi,"Orlandovzi, m. Mogilata",0.0,"[42.735719, 23.393263]",7.211476891372447
+Serdika,NPZ Voenna rampa - iztok,54.0,"[42.73641, 23.332771]",4.3971482040258065
+Banka,"kv. Verdikal, m. G_olovete",0.0,"[42.727763, 23.143881]",14.911356370888628
+Lulin,kv. Republika,,"[42.738205, 23.241654]",7.943177417231394
+Lulin,"s. Filipovzi, m. Beriliza",4.0,"[42.73068, 23.23486]",7.98969271595771
+Lulin,"m. Teritorii, prilejasi na p_ten v_zel Okolovr_sten p_t - bul. Slivniza",67.0,"[42.73471, 23.247556]",7.325951201024258
+Vr_bniza,j.k. Obela 1,4473.0,"[42.740727, 23.265184]",6.651117985639322
+Novi Isk_r,"Hidropark Isk_r - Cepinzi, Negovan, Svetovracene",0.0,"[42.777085, 23.394885]",10.657917639795718
+Novi Isk_r,"s. Cepinzi, m. Makaziza",0.0,"[42.744406, 23.409172]",8.830320217672663
+Novi Isk_r,SSZ m. Cepinzi,0.0,"[42.749159, 23.399123]",8.525728350143297
+Kremikovzi,s. Jelava,492.0,"[42.756432, 23.605894]",24.111249545054832
+Novi Isk_r,"s. Negovan, m. Gerena",0.0,"[42.743501, 23.397854]",8.036689975231702
+Nadejda,Severen park,310.0,"[42.748251, 23.299171]",5.915368023813625
+Kremikovzi,Hvostohranilise Buhovo,0.0,"[42.766193, 23.580216]",22.442610351470805
+Kremikovzi,Kariera Rudinata,0.0,"[42.780179, 23.537062]",19.832084219509127
+Vr_bniza,j.k. Obela 2,12445.0,"[42.745041, 23.282229]",6.174699862905656
+Kremikovzi,"Benkovski, m. Progon",0.0,"[42.742226, 23.389518]",7.427049631845299
+Serdika,kv. Benkovski - razsirenie,0.0,"[42.752397, 23.34579]",6.390866121522212
+Vr_bniza,Severen park cast 2,35.0,"[42.748627, 23.297632]",5.995229158178832
+Vr_bniza,"s. Voluak, m. Bel Kam_k",0.0,"[42.745883, 23.254278]",7.686123599107118
+Serdika,NPZ Ilianzi - iztok,25.0,"[42.754724, 23.336195]",6.449251741044561
+Nadejda,"kv. Trebic, m. Cuculiza - ug",0.0,"[42.768132, 23.284806]",8.39232349410983
+Kremikovzi,NPZ Kremikovzi,18.0,"[42.761721, 23.523708]",17.966499095286085
+Vr_bniza,"s. Voluak, m. Poleto",28.0,"[42.757388, 23.240448]",9.388385500662762
+Novi Isk_r,s. Cepinzi - razsirenie,0.0,"[42.77865, 23.419909]",12.053363708988101
+Nadejda,kv. Ilianzi,1217.0,"[42.756671, 23.318147]",6.563418193716834
+Vr_bniza,"s. Voluak, m. Cuculiza",0.0,"[42.749313, 23.277675]",6.774412593610459
+Nadejda,NPZ Ilianzi - zapad,368.0,"[42.757621, 23.322905]",6.663138987937963
+Vr_bniza,kv. Republika - Toleva mahala,384.0,"[42.756761, 23.221714]",10.482702512638191
+Novi Isk_r,"s. Cepinzi, m. Cubra",0.0,"[42.765586, 23.450099]",12.918130123668755
+Kremikovzi,gr. Buhovo,2683.0,"[42.77096, 23.559104]",21.027699108371788
+Serdika / Nadejda,NPZ Ilianzi - sever,0.0,"[42.767442, 23.330572]",7.7879463622098015
+Kremikovzi,Zatvor Kremikovzi,0.0,"[42.774013, 23.54207]",19.89445298695691
+Vr_bniza,bul. Lomsko sose,0.0,"[42.764331, 23.277955]",8.226804945504782
+Novi Isk_r,s. Cepinzi,2393.0,"[42.771216, 23.436958]",12.464364228709906
+Vr_bniza,s. Voluak,2507.0,"[42.779523, 23.246827]",10.963885645575274
+Vr_bniza,s. Negovan,1541.0,"[42.777162, 23.404239]",11.11090937062731
+Novi Isk_r,s. Kubratovo,627.0,"[42.777478, 23.366548]",9.59546870196274
+Vr_bniza,"s. Voluak, m. Padinata",0.0,"[42.769503, 23.25683]",9.583853056339269
+Novi Isk_r,Cepinsko pole,0.0,"[42.778777, 23.368686]",9.796140619433029
+Novi Isk_r,"s. Negovan, m. T_rnizata",0.0,"[42.770986, 23.437397]",12.47474676425955
+Novi Isk_r,s. Svetovracene NPZ,112.0,"[42.786411, 23.403815]",11.925231430418568
+Vr_bniza,"s. Voluak, m. Z_rna bara",0.0,"[42.789605, 23.236859]",12.348229321023446
+Kremikovzi,j.k. Kremikovzi,2245.0,"[42.793156, 23.504867]",18.33734656306509
+Novi Isk_r / Kremikovzi,Rudnik Kremikovzi 2,0.0,"[42.796458, 23.460767]",15.793956449979747
+Vr_bniza,s. Mramor i PSZ,1906.0,"[42.79168, 23.280026]",10.990992244264353
+Lulin,j.k. Lulin - 9 mr,10169.0,"[42.720532, 23.273429]",4.693462522599515
+Novi Isk_r,SOP sever - m. Sevladiza,0.0,"[42.797263, 23.385094]",12.219345859552126
+Novi Isk_r,s. Mirovane - razsirenie,0.0,"[42.793825, 23.319019]",10.690487034083455
+Novi Isk_r,"s. Lokorsko, m. Ziganski grobisa",0.0,"[42.80077, 23.441193]",15.04886229484453
+Nadejda,"kv. Trebic, m. Lakata",0.0,"[42.778691, 23.336493]",9.085521806632848
+Novi Isk_r,s. Jiten,567.0,"[42.822424, 23.252513]",14.975803894470157
+Novi Isk_r,s. Vojnegovzi - razsirenie,0.0,"[42.803199, 23.431909]",14.782285833215598
+Novi Isk_r,s. Mirovane,1416.0,"[42.799464, 23.299533]",11.45964725077719
+Lulin,"s. Filipovzi, m. Seoviza",0.0,"[42.713583, 23.226905]",7.948184884525343
+Novi Isk_r,s. Vojnegovzi,521.0,"[42.807783, 23.418198]",14.554809489982048
+Novi Isk_r,m. Manastirskoto,0.0,"[42.829239, 23.368792]",15.121866698053998
+Novi Isk_r,v.z. Brancoviza,0.0,"[42.808698, 23.439054]",15.622519144186214
+Novi Isk_r,"s. Podgumer, m. Starata Koria",0.0,"[42.831288, 23.415766]",16.719630659039833
+Vr_bniza,s. Mramor - zem. zemi,0.0,"[42.800566, 23.278563]",11.968912615756395
+Novi Isk_r,"Novi Isk_r, m. Dupkite",0.0,"[42.823322, 23.397143]",15.264192090310956
+Lulin,j.k. Lulin - 3 mr,5809.0,"[42.725409, 23.244152]",7.048567800370998
+Novi Isk_r,"zem. zemi - s. Podgumer, Vojnegovzi, Lokorsko",0.0,"[42.809852, 23.417749]",14.729199130343158
+Novi Isk_r,s. Podgumer,723.0,"[42.811675, 23.403091]",14.307867025694186
+Novi Isk_r,s. Podgumer - Pas_cni karieri,0.0,"[42.813729, 23.410574]",14.80010504564105
+Novi Isk_r,gr. Novi Isk_r - kv. Gnilane,1132.0,"[42.815774, 23.37613]",13.859283126591581
+Novi Isk_r,Podgumerski manastir Sveti Dimit_r,0.0,"[42.813666, 23.409674]",14.758117464643426
+Novi Isk_r,gr. Novi Isk_r - kv. Izgrev,527.0,"[42.826549, 23.376536]",15.008899539254152
+Novi Isk_r,gr. Novi Isk_r - kv. Slavovzi - razsirenie,23.0,"[42.80505, 23.339253]",12.021620507376277
+Novi Isk_r,gr. Novi Isk_r - kv. Kumariza,3023.0,"[42.812608, 23.347025]",12.942370193151957
+Novi Isk_r,SPZ Novi Isk_r - kv. Kurilo,290.0,"[42.820648, 23.368898]",14.202402436118787
+Novi Isk_r,gr. Novi Isk_r - kv. Kurilo,3835.0,"[42.830961, 23.352689]",15.031269209609064
+Novi Isk_r,"s. Gnilane, v.z. Ranova niva",1.0,"[42.835351, 23.399905]",16.582215445022566
+Novi Isk_r,s. Dobroslavzi - letise,,"[42.823779, 23.300547]",14.125322991809744
+Novi Isk_r,s. Dobroslavzi,1247.0,"[42.83511, 23.288086]",15.52395434969434
+Novi Isk_r,s. K_tina - razsirenie,,"[42.838881, 23.318285]",15.700708158858614
+Pancarevo,"s. Jelezniza, m. Morojina",0.0,"[42.546681, 23.354441]",17.004732422660172
+Pancarevo,"s. G. Lozen, m. Progon",0.0,"[42.627821, 23.473152]",14.6167810920763
+Pancarevo,Sofijsko pole Kazicene - ug,0.0,"[42.649654, 23.468589]",13.14019353358394
+Pancarevo,"s. Bistriza, m. Marinova polana",0.0,"[42.595865, 23.33824]",11.404051489473765
+Novi Isk_r,s. K_tina,857.0,"[42.850867, 23.309386]",17.060801680017384
+Novi Isk_r,s. Balsa,710.0,"[42.858545, 23.267741]",18.419828368918118
+Kremikovzi / Pancarevo,"s. D.Bogrov, Blatata Krivina",0.0,"[42.710452, 23.479072]",12.933555675239914
+Ovca Kupel,"Suhodol, m. Krusovez",5.0,"[42.70112, 23.205336]",9.52055216948179
+Vr_bniza,"s. Mramor, m. Kr_sta",0.0,"[42.778399, 23.272426]",9.83546846610515
+Pancarevo,m. Mutijska vodeniza,0.0,"[42.693902, 23.482104]",13.11196026022248
+Pancarevo,"s. D. Lozen, m. Anino raske",0.0,"[42.624148, 23.516886]",17.93072309809895
+Pancarevo,"s. D. Lozen, m. Beli rid",0.0,"[42.62357, 23.536664]",19.41124281164477
+Kremikovzi,"kv. Vrajdebna, Biznes zona m. Progono",8.0,"[42.707556, 23.44989]",10.52847435811778
+Ovca Kupel,"kv. Suhodol, m. Vodenizata",0.0,"[42.706194, 23.228881]",7.647071140343728
+Kremikovzi,zem. zemi Malasevzi Gerena,0.0,"[42.725014, 23.383589]",5.895136245159484
+Serdika,"kv. Benkovski, m. Obradovski geren",0.0,"[42.747574, 23.357012]",6.248960581867126
+Pancarevo,Hidropark Isk_r - cast D.Pasarel - Pancarevo,0.0,"[42.604095, 23.409847]",12.659339705845573
+Pancarevo,"Pancarevo, m. Goli del",0.0,"[42.587781, 23.405675]",14.018756700690366
+Novi Isk_r,s. Dobroslavzi poleto,0.0,"[42.802562, 23.274313]",12.286108849026858
+Kremikovzi,"s. D. Bogrov, m. Bresto",0.0,"[42.724972, 23.528415]",17.155714150797607
+Vr_bniza,m. Kelkaza - s. Mramor,0.0,"[42.776664, 23.257657]",10.221727852703415
+Ovca Kupel,"s. Malo Bucino, m. Pladnise",0.0,"[42.691525, 23.163932]",12.915771190514045
+Novi Isk_r,s. Balsa poleto,0.0,"[42.846784, 23.262486]",17.268225336708223
+Novi Isk_r,s. Jiten poleto,0.0,"[42.834506, 23.253781]",16.191875104935615
+Kremikovzi,"s. D.Bogrov, m. Ormana",0.0,"[42.70714, 23.49508]",14.202895998304944
+Vr_bniza,"s. Voluak, m. Primicur",0.0,"[42.784164, 23.215221]",12.965569102196424
+Novi Isk_r,kv. Celopecene - m. Zavoa,0.0,"[42.749592, 23.465396]",13.076162153962919
+Nadejda,"kv. Trebic, m. Cuculiza - zapad",0.0,"[42.780426, 23.294869]",9.456532912788315
+Vr_bniza,"s. Voluak, m. Lokva",0.0,"[42.748652, 23.272421]",6.9519111822304325
+Vr_bniza,s. Voluak - JP gara Voluak,345.0,"[42.762585, 23.23695]",10.000920060200762
+Vr_bniza,"s. Mramor, m. Rido",52.0,"[42.778325, 23.253164]",10.57053037383683
+Serdika,"s. Kubratovo, m. Otv_d rekata",0.0,"[42.771495, 23.365643]",8.95426034577272
+Ovca Kupel,"s. Malo Bucino, m. Kamen rid",0.0,"[42.678597, 23.15241]",14.002687786356962
+Banka,"s. Ivanane, m. Brodo",0.0,"[42.697866, 23.174017]",12.072675389166593
+Banka,s. Ivanane poleto,0.0,"[42.708143, 23.195068]",10.416360302699317
+Ovca Kupel,"Suhodol, m. Manilov dol",0.0,"[42.708892, 23.226415]",7.8886300192321
+Banka,"s. Ivanane, m. Sadinata",0.0,"[42.717214, 23.19426]",10.640252302178634
+Pancarevo,m. D_lgata str_n,0.0,"[42.580932, 23.381087]",13.862086110400794
+Kremikovzi / Novi Isk_r,Hidropark Isk_r - cast Vrajdebna,0.0,"[42.715457, 23.425298]",8.68847022091078
+Pancarevo,v.z. Bunkera,0.0,"[42.609933, 23.371104]",10.561470412404386
+Pancarevo,m. Dupkite,0.0,"[42.614328, 23.383574]",10.56007626941506
+Lozenez,kv. Kr_stova vada - iztok,502.0,"[42.656695, 23.32148]",4.560044594421245
+Lulin,j.k. Lulin - 10 mr,21695.0,"[42.717607, 23.278864]",4.144237959008689
+Kremikovzi,kv. Seslavzi,700.0,"[42.791309, 23.519968]",19.244437456623626
+Nadejda / Vr_bniza,"j.k. Nadejda 4, j.k. Vr_bniza 2A",7834.0,"[42.737473, 23.299688]",4.775188062951498
+Lulin,j.k. Lulin - 2 mr,4346.0,"[42.723566, 23.258619]",5.905289900971324
+Novi Isk_r,gr. Novi Isk_r - kv. Slavovzi,787.0,"[42.796702, 23.332245]",11.041408767942078
+Lulin,j.k. Lulin - 5 mr,14484.0,"[42.712704, 23.24793]",6.25801391765955
+Krasna polana,Zapaden park - razs. Malka Kon_oviza 2,0.0,"[42.708887, 23.230302]",7.575055167098867
+Novi Isk_r / Kremikovzi,Hidropark Isk_r - defileto,0.0,"[42.841543, 23.365692]",16.391499090274166
+Pancarevo,v.z. Bistriza - razs. Zonkina mahala,0.0,"[42.576802, 23.360021]",13.803462550903689
+Pancarevo,v.z. Bistriza - razs. iztok,0.0,"[42.588938, 23.37378]",12.82123797377688
+Nadejda / Vr_bniza,"j.k. Nadejda 3, j.k. Vr_bniza 1A",6554.0,"[42.735386, 23.292874]",4.808349330411509
+Nadejda / Vr_bniza,"j.k. Nadejda 3, j.k. Vr_bniza 1B",8559.0,"[42.732279, 23.296317]",4.369986974809666
+Krasno selo,NPZ Sredez 1,385.0,"[42.688953, 23.285268]",3.136041526515087
+V_zrajdane,NPZ Sredez 2,1294.0,"[42.689999, 23.297039]",2.1934686476441256
+Poduene,NPZ Hadji Dimit_r - Malasevzi 1,698.0,"[42.71594, 23.373099]",4.660316474071804
+Serdika,NPZ Hadji Dimit_r - Malasevzi 2,40.0,"[42.719181, 23.31242]",2.5067576516351684
+Krasno selo,ZGC Zona G6 - zapad,1915.0,"[42.689881, 23.314084]",1.071822654497772
+Novi Isk_r,s. Lokorsko 1,393.0,"[42.794917, 23.455721]",15.379630172623138
+Lulin,SPZ Moderno predgradie - razsirenie 1,538.0,"[42.744716, 23.257267]",7.421025894608171
+Vr_bniza,SPZ Moderno predgradie - razsirenie 2,23.0,"[42.740748, 23.252298]",7.4226966853287975
+Triadiza,ZGC Zona G6 - iztok,5648.0,"[42.694928, 23.320821]",0.3177987855463887
+Mladost,j.k. Gorublane 2 i 3,1372.0,"[42.636613, 23.395164]",9.065240465163999
+Nadejda,j.k. Nadejda 1,3344.0,"[42.723679, 23.305509]",3.1783927398818896
+Lulin,j.k. Lulin - 1 mr,2967.0,"[42.733354, 23.250589]",7.036319517536351
+Pancarevo,"s. Dolni Pasarel, v.z. Rasul",0.0,"[42.52782, 23.512464]",24.503522248408537
+Pancarevo,"s. Bistriza, m. Oreskoviza",0.0,"[42.592056, 23.383226]",12.778510510984233
+Vitosa,"s. M_rcaevo, m. Manastirise",0.0,"[42.59905, 23.148862]",17.895958794907344
+Pancarevo,v.z. Kosanin dol,38.0,"[42.614869, 23.378909]",10.329137591778826
+Pancarevo,"Pancarevo, v.z. Lavandulite",0.0,"[42.447165, 23.571171]",34.54365460540119
+Pancarevo,v.z. Bistriza - Kalfin dol,96.0,"[42.603731, 23.350838]",10.716768434367092
+Pancarevo,"Pancarevo, v.z. Belikata",27.0,"[42.596206, 23.389603]",12.576838115972546
+Mladost,Mladost 4 Kambanite - Amerikanski kolej,878.0,"[42.635446, 23.366412]",7.8270048811274355
+Pancarevo,"s. German, m. Dzukata",17.0,"[42.621733, 23.441298]",12.920195995598903
+Pancarevo,Hidropark Isk_r - cast German,0.0,"[42.618706, 23.416336]",11.704342663112957
+Pancarevo,"s. German, v.z. Terasite",22.0,"[42.615591, 23.423873]",12.373953549945606
+Vitosa,jk. Manastirski livadi - zapad,9717.0,"[42.668324, 23.279254]",4.768311856092473
+Serdika / Ilinden,ZGC Zona V17 - kv. Banisora,12465.0,"[42.713206, 23.315462]",1.7985966124301078
+Vitosa,"s. Vladaa, m. Sv. Petka",4.0,"[42.631457, 23.189018]",13.116428438143279
+Ovca Kupel,kv. Gorna bana,3722.0,"[42.685001, 23.235507]",7.188469092218848
+Vitosa,"s. Vladaa, v.z. Priplat",0.0,"[42.638993, 23.194129]",12.308056727023239
+Lozenez,Park - Borisova gradina - razs. Kr_stova vada,56.0,"[42.656579, 23.327983]",4.60122812917757
+Vitosa,"s. Vladaa, m. Gabera",35.0,"[42.614353, 23.190094]",14.20589835946907
+Lozenez / Triadiza,m. Lozenez cast 1,9570.0,"[42.671741, 23.32103]",2.887547036453454
+Isk_r,Hidropark  Isk_r - cast NPZ Isk_r sever,0.0,"[42.690074, 23.423716]",8.376758559802974
+Isk_r,NPZ Isk_r - sever,0.0,"[42.682906, 23.414158]",7.730133434658642
+Slatina,SPZ Slatina - ug 1,1154.0,"[42.673174, 23.395206]",6.5949606296724115
+Ovca Kupel,m. Gorna bana - razs. Lozise Podlozise,137.0,"[42.68941, 23.230543]",7.5106084051172965
+Poduene,JP Areal - Poduane (cast 2),6.0,"[42.69791, 23.360113]",3.135498599139902
+Kremikovzi,m. Cepinzi - Kraveferma D-r Pasov,23.0,"[42.735986, 23.380455]",6.412860360440889
+Ovca Kupel,v.z. Gorna bana (razs. ug na kv. Gorna bana),1581.0,"[42.677762, 23.221717]",8.471233157952472
+Slatina,SPZ Slatina - ug 2,0.0,"[42.686342, 23.400841]",6.58667861753513
+Isk_r / Kremikovzi,zem. zemi kv. Busmanzi - Vrajdebna,0.0,"[42.701228, 23.447742]",10.30378000848187
+Mladost,NPZ Iztok - podzona Gorublane,0.0,"[42.643144, 23.398055]",8.702253096465931
+Poduene / Kremikovzi,m. Vrajdebna - ug,96.0,"[42.707222, 23.419465]",8.05499141908092
+Novi Isk_r / Kremikovzi,m. Apadja,94.0,"[42.713216, 23.431706]",9.149068313826842
+Serdika,ZGC Zona V17 - 16 s Predgarov plosad,5580.0,"[42.709594, 23.322449]",1.323355066016885
+Serdika / Kremikovzi,"SZ Birimirzi-Broda, kv. 1",0.0,"[42.735714, 23.351693]",4.88356275002146
+Nadejda,Skladova zona Ilianzi - Vr_bniza,3.0,"[42.741532, 23.318015]",4.882973260692901
+Serdika,kv. Benkovski,3770.0,"[42.749557, 23.353293]",6.315478766689483
+Vr_bniza,kv. Obela,2034.0,"[42.747733, 23.269029]",7.035030480326478
+Serdika,Park Benkovski - zapad,0.0,"[42.753968, 23.339384]",6.420023991921662
+Serdika,Precistvatelna stanzia Kubratovo,0.0,"[42.752852, 23.377982]",7.661942462078752
+Novi Isk_r / Kremikovzi,Hidropark Isk_r - cast Vrajdebna - Kubratovo,0.0,"[42.767755, 23.368241]",8.665709647107068
+Novi Isk_r,"s. Lokorsko, m. Turceniza",0.0,"[42.804069, 23.46193]",16.45906362405954
+Novi Isk_r,"s. Vojnegovzi, v.z. Mancov valog",0.0,"[42.814555, 23.440625]",16.21813250184614
+Novi Isk_r,"s. Podgumer, v.z. Zelinite",0.0,"[42.814519, 23.411424]",14.910673636803109
+Novi Isk_r,Hidropark Isk_r - cast gr. Novi Isk_r,4.0,"[42.820559, 23.371247]",14.24608832691665
+Novi Isk_r,"s. Podgumer, v.z. Presveta",0.0,"[42.822295, 23.405757]",15.45868802291225
+Mladost,m. bul. Zarigradsko s. 7-11km - sever,434.0,"[42.656776, 23.396099]",7.593203788911254
+Novi Isk_r,"s. Vojnegovzi, v.z. Rusia",0.0,"[42.805325, 23.422461]",14.520067922508535
+Novi Isk_r,"s. Gnilane, v.z. K_pina",0.0,"[42.823797, 23.405598]",15.602804496030702
+Novi Isk_r,m. v.z. Romca,0.0,"[42.851975, 23.364033]",17.497931128821104
+Pancarevo,"s. D. Lozen, v.z. Umni dol",0.0,"[42.611211, 23.55926]",21.674247023007194
+Kremikovzi,s. Dolni Bogrov - sever,122.0,"[42.707017, 23.494313]",14.139397855855206
+Kremikovzi,Zem. zemi mejdu s. Benkovski i Cepinsko s.,0.0,"[42.746628, 23.358522]",6.214499937900627
+Serdika,Hidropark Isk_r - Kubratovo - Novi Isk_r,0.0,"[42.801348, 23.370478]",12.192291017017098
+Ovca Kupel,"s. Malo Bucino, m. Gradomanski p_t",0.0,"[42.691066, 23.157577]",13.437188253353373
+Kremikovzi,Park Levski G - sever,0.0,"[42.720295, 23.390768]",6.173732861353975
+Novi Isk_r / Kremikovzi,Park kv. Vrajdebna - sever,6.0,"[42.716411, 23.419732]",8.272189279174539
+Kremikovzi,Ozelenavane transp. v_zel Severna - iztocna tangenti,0.0,"[42.720277, 23.39648]",6.602033507380309
+Mladost,m. bul. Zarigradsko s. 7-11km - ug (HMS BAN),0.0,"[42.643371, 23.39992]",8.794842459969127
+Vitosa,v.z. Kinozent_ra. v.z. Gabaro - Azmata,1108.0,"[42.639607, 23.304153]",6.618292034347307
+Banka,v.z. Beli Breg - m. Grobisata,0.0,"[42.730039, 23.179335]",12.177927851362279
+Triadiza,j.k. Manastirski livadi - iztok,4732.0,"[42.657762, 23.302778]",4.704245114089453
+Serdika,j.k. Orlandovzi - Malasevzi,12486.0,"[42.731088, 23.346039]",4.2094046846057624
+Banka,Lulin planina - zapad,,"[42.702887, 23.113616]",17.01780492419977
+Banka,"gr. Banka, kv. Izgrev",351.0,"[42.721661, 23.165722]",13.023455264020257
+Ilinden,j.k. NPZ Zaharna fabrika,4167.0,"[42.718697, 23.30038]",2.9149183884292214
+Vitosa,v.z. Malinova dolina - zapad,42.0,"[42.626103, 23.350935]",8.31172306384466
+Poduene,j.k. Suhata reka - zapad,4420.0,"[42.70226, 23.359804]",3.1510448321616895
+Vitosa,kv. Karpuziza - zapad,5438.0,"[42.671583, 23.251983]",6.399462426961295
+Vitosa,kv. Karpuziza - iztok,2236.0,"[42.659451, 23.243822]",7.659643071322521
+Vitosa / Pancarevo,v.z. Malinova dolina - gerena,114.0,"[42.620502, 23.379242]",9.787652003009814
+Isk_r,Vrana - stopanstvoto,47.0,"[42.647014, 23.449862]",11.894427587277915
+Studentska,kv. Malinova dolina - iztok,450.0,"[42.643329, 23.355852]",6.658237774870602
+Izgrev,m. Gara Pioner,36.0,"[42.673263, 23.347066]",3.4160258273003286
+Vitosa,m. obsl. zona Okolovr_sten p_t - Al. Malinov ug,5.0,"[42.62378, 23.368858]",9.077923856033367
+Ovca Kupel,m. Ovca Kupel - kv. 50,687.0,"[42.67893, 23.254854]",5.85234942445879
+Pancarevo,SOP s. Kazicene - s. Krivina,44.0,"[42.689628, 23.460142]",11.34629649282461
+Pancarevo,s. Kazicene - ug,4266.0,"[42.67115, 23.468511]",12.354487183971841
+Pancarevo,s. Jelezniza - mahala Cemernik i Zarevi kosari,5.0,"[42.533549, 23.380262]",18.870814817336434
+Vitosa,"s. M_rcaevo, m. Manis",0.0,"[42.596903, 23.147125]",18.15502025934735
+Lulin,"Filipovzi, m. Seoviza",0.0,"[42.714929, 23.220837]",8.464857092026751
+Ovca Kupel,"Suhodol, m. Sredni del",0.0,"[42.695792, 23.208303]",9.27334521347692
+Pancarevo,"s. Jelezniza, m. Kovacki kosari",,"[42.544085, 23.383163]",17.80552117987775
+Pancarevo,"s. Jelezniza, m. Covkarniko",,"[42.546102, 23.379645]",17.510390489529758
+Novi Isk_r,v.z. K_tina,,"[42.821279, 23.311282]",13.767443277918881
+Vr_bniza,"s. Voluak, m. Razdolzi",0.0,"[42.767822, 23.208477]",12.098611310534002
+Pancarevo,"s. Jelezniza, m. Slapovi kosari - ug",,"[42.502974, 23.364934]",21.939634876362085
+Pancarevo,"s. Jelezniza, m. Slapovi kosari - sever",,"[42.507415, 23.365296]",21.457298790442763
+Vitosa / Ovca Kupel,Razsadnik Malo Bucino,0.0,"[42.691321, 23.180533]",11.562576181738924
+Pancarevo,Hidropark Isk_r - Vododajna zona az. Isk_r,0.0,"[42.533575, 23.522492]",24.554409797035948
+Vitosa,Planina Vitosa - r-n Vitosa,20.0,"[42.650581, 23.221158]",9.750865513574055
+Banka,"s. Klisura, r-n Banka zemlise",0.0,"[42.7374, 23.089181]",19.505540148915433
+Kremikovzi,zem. zemi r-n Kremikovzi,204.0,"[42.775887, 23.512774]",17.859977798133286
+Novi Isk_r / Kremikovzi,Sofijska planina (zapadna Stara planina) 2,46.0,"[42.815289, 23.410421]",14.945457506455039
+Pancarevo,Planina Vitosa - r-n Pancarevo,1.0,"[42.600639, 23.352891]",11.089637831186224
+Pancarevo,Plana planina,0.0,"[42.576, 23.407991]",15.261436454873689
+Novi Isk_r / Kremikovzi,Sofijska planina (zapadna Stara planina) 1,20.0,"[42.896171, 23.281678]",22.30935460399081
+Vitosa / Ovca Kupel,Lulin planina - iztok,1.0,"[42.67761, 23.176485]",12.081319649461424
+Kremikovzi,Hvostohranilise Bogrov - L_kata,0.0,"[42.701164, 23.515396]",15.829657572925022
+Isk_r,"s. Kazicene, m. Cagovo raske",0.0,"[42.659064, 23.440463]",10.613356865229267
+Lulin,"Filipovzi, m. Gladno pole",0.0,"[42.738191, 23.217514]",9.632081151608611
+Nadejda,"kv. Trebic, m. Cuculiza - sever",0.0,"[42.777169, 23.312217]",8.870309360550944
+Nadejda,kv. Trebic,1318.0,"[42.783373, 23.323058]",9.526560718054377
+Novi Isk_r,"Hidropark Isk_r - gr. Novi Isk_r, m. Sredoreka",0.0,"[42.829705, 23.361506]",15.03243995570889
+Novi Isk_r,"Novi Isk_r, m. Vranaka",0.0,"[42.824563, 23.387745]",15.100079129454926
+Novi Isk_r,Novi Isk_r - K_tina poleto,0.0,"[42.844389, 23.301498]",16.394149798223705
+Novi Isk_r,"s. K_tina, zona za otdih Izvora",2.0,"[42.843718, 23.340155]",16.30540273931032
+Novi Isk_r,m. Padarski kolibi,0.0,"[42.855223, 23.280543]",17.83522764014848
+Pancarevo,s. Bistriza - Kokalane - pole,0.0,"[42.585183, 23.387481]",13.618175154575846
+Isk_r / Pancarevo,Hidropark Isk_r - ez. Kazicene,0.0,"[42.656197, 23.453617]",11.72677380873845
+Banka,kv. Verdikal - zemlise pole,0.0,"[42.739961, 23.117725]",17.316948494591394
+Kremikovzi,"zem. zemi - s. Bogrov, Ana i Jelava",0.0,"[42.727111, 23.608669]",23.669255031419485
+Serdika,Kubratovsko pole,0.0,"[42.781132, 23.337021]",9.360268545780276
+Novi Isk_r,"Novi Isk_r, m. v.z. Laska",109.0,"[42.841271, 23.34635]",16.089757533185423
+Kremikovzi,s. G. i D. Bogrov pole ug,0.0,"[42.707081, 23.497149]",14.371038219978642
+Novi Isk_r,m. v.z. Radevi krusi,24.0,"[42.831876, 23.385242]",15.794032351592831
+Pancarevo,"s. Bistriza, m. Lagatar",0.0,"[42.572169, 23.346481]",14.104747498683137
+Sredez,Knajeska gradina,,"[42.690539, 23.337447]",1.5104041668410735
+Vr_bniza,"s. Voluak, m. Gurmaziza",0.0,"[42.782112, 23.216587]",12.721823125462999
+Pancarevo,SOP Lozen Ikonomiceska zona - sever,0.0,"[42.638122, 23.45229]",12.562445820764953
+Nadejda,"s. Mramor, kv. Trebic zem. zema",,"[42.769572, 23.284757]",8.543334919573885
+Novi Isk_r,s. Mirovane poleto,0.0,"[42.808691, 23.300953]",12.457417864521517
+Lulin,"kv. Filipovzi, m. Krusi",0.0,"[42.718215, 23.20728]",9.62688648289555
